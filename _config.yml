@@ -16,7 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
   de ar condicionado. Atendimento rápido e eficiente para empresas, estabelecimentos
   comerciais e residências, valorizando o relacionamento com os clientes com
   responsabilidade e transparência.
-baseurl: "/JHS" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jhsar.com.br" # the base hostname & protocol for your site
 
 # Build settings
