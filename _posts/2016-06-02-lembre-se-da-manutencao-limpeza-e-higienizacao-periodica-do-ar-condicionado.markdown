@@ -2,7 +2,7 @@
 layout: post
 title:  Você não pode se esquecer da limpeza e manutenção periódica do ar-condicionado
 excerpt: O ar ao nosso redor está cheio de micro-organismos causadores de doenças, que podem se acumular nos aparelhos de ar condicionado. Estes micróbios, como fungos e bactérias, além de ácaros, poeira, poluição e até insetos mortos, causam problemas de saúde quando inalados, alojando-se ao longo das vias respiratórias e pulmões.
-categories: dicas limpeza saude
+categories: blog saude dicas limpeza
 ---
 
 Um período prolongado de calor pode fazer com que você se esqueça de fazer a limpeza e higienização do sistema de ar condicionado. Além de prejudicar o desempenho e durabilidade dos aparelhos, isso traz riscos à saúde.

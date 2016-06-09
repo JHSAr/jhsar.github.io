@@ -73,6 +73,9 @@
     &._1of5 {
         flex: 1 1 20%;
     }
+    &._shrink {
+        flex: 0 1 auto;
+    }
 
     &:not(._nospace) {
         &:not(:first-child) {
