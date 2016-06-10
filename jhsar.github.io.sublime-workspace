@@ -1,0 +1,1945 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top: "
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"bor",
+				"border-radius: "
+			],
+			[
+				"va",
+				"vertical-align: "
+			],
+			[
+				"flex",
+				"flex-direction: "
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"bg-",
+				"bg-color"
+			],
+			[
+				"new",
+				"newPar"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"I",
+				"Image"
+			],
+			[
+				"add",
+				"addPrato"
+			],
+			[
+				"mw",
+				"miw	min-width"
+			],
+			[
+				"pos",
+				"pos-f	position: fixed;"
+			],
+			[
+				"align-",
+				"align-content"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"bac",
+				"background-image: "
+			],
+			[
+				"ali",
+				"align-items: "
+			],
+			[
+				"border-",
+				"border-box"
+			],
+			[
+				"box-",
+				"box-sizing: "
+			],
+			[
+				"num",
+				"number-width"
+			],
+			[
+				"text",
+				"text-align: "
+			],
+			[
+				"border",
+				"border-radius: "
+			],
+			[
+				"prato_",
+				"prato_do_dia"
+			],
+			[
+				"day",
+				"dayNum"
+			],
+			[
+				"pra",
+				"prato_do_dia"
+			],
+			[
+				"data",
+				"data-src"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"prato",
+				"prato_imagem"
+			],
+			[
+				"getEle",
+				"getElementsByClassName"
+			],
+			[
+				"border-b",
+				"border-bottom-width: "
+			],
+			[
+				"border-t",
+				"border-top-width: "
+			],
+			[
+				"bo",
+				"border: "
+			],
+			[
+				"min",
+				"min-width: "
+			],
+			[
+				"in",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"slides",
+				"slidesArr"
+			],
+			[
+				"inset",
+				"insertAdjacentElement"
+			],
+			[
+				"last",
+				"lastSlide"
+			],
+			[
+				"sli",
+				"slideInterval"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mouse",
+				"mouseover	.mouseover()"
+			],
+			[
+				"firs",
+				"firstSlide"
+			],
+			[
+				"slide",
+				"slideshow"
+			],
+			[
+				"po",
+				"pos-f	position: fixed;"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"cls",
+				"classList"
+			],
+			[
+				"scro",
+				"scrollSpy"
+			],
+			[
+				"scr",
+				"scrollSpy"
+			],
+			[
+				"on",
+				"onScreen"
+			],
+			[
+				"ons",
+				"onScreenNow"
+			],
+			[
+				"ge",
+				"getBoundingClientRect"
+			],
+			[
+				"toggle",
+				"toggleMenu"
+			],
+			[
+				"page",
+				"pageScroll"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"di",
+				"difference"
+			],
+			[
+				"fle",
+				"flex: "
+			],
+			[
+				"nav",
+				"navRect"
+			],
+			[
+				"over",
+				"overflow-x: "
+			],
+			[
+				"is",
+				"is-active"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"ma",
+				"margin: "
+			],
+			[
+				"arr",
+				"arrLinks"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"pho",
+				"photos"
+			],
+			[
+				"mag",
+				"magnify"
+			],
+			[
+				"ba",
+				"background-color: "
+			],
+			[
+				"img",
+				"imgURL"
+			],
+			[
+				"phto",
+				"photos"
+			],
+			[
+				"photo",
+				"photos"
+			],
+			[
+				"phot",
+				"photos"
+			],
+			[
+				"bakc",
+				"background-image: "
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"w",
+				"width: "
+			],
+			[
+				"border-top",
+				"border-top: "
+			],
+			[
+				"marg",
+				"margin-left: "
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"b",
+				"bg-color"
+			],
+			[
+				"light",
+				"lighten	Sass-function"
+			],
+			[
+				"log",
+				"log_file"
+			],
+			[
+				"tex",
+				"text-align: "
+			],
+			[
+				"colle",
+				"collection_name"
+			],
+			[
+				"mn",
+				"min-width: "
+			],
+			[
+				"scroll",
+				"scrolledHeight"
+			],
+			[
+				"vi",
+				"videoContainer"
+			],
+			[
+				"ove",
+				"overflow: "
+			],
+			[
+				"ov",
+				"overflow: "
+			],
+			[
+				"whi",
+				"white-space: "
+			],
+			[
+				"video",
+				"videoData"
+			],
+			[
+				"ha",
+				"hash"
+			],
+			[
+				"anc",
+				"ancArr"
+			],
+			[
+				"coll",
+				"collection_name"
+			],
+			[
+				"btn",
+				"btnClose"
+			],
+			[
+				"content",
+				"contentPath"
+			],
+			[
+				"me",
+				"menuBar"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"sera",
+				"searchInput"
+			],
+			[
+				"con",
+				"contentPath"
+			],
+			[
+				"conten",
+				"contentPath"
+			],
+			[
+				"font-s",
+				"font-style: "
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"docu",
+				"documentElement"
+			],
+			[
+				"align",
+				"align-items: "
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"parse",
+				"parseXML"
+			],
+			[
+				"selia",
+				"seliga"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"dar",
+				"dark-blue"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"o",
+				"overflow: "
+			],
+			[
+				"list",
+				"listContainer"
+			],
+			[
+				"lis",
+				"listContainer"
+			],
+			[
+				"item",
+				"itemsList"
+			],
+			[
+				"xml",
+				"xmlDoc"
+			],
+			[
+				"tye",
+				"typeof"
+			],
+			[
+				"file",
+				"file_system"
+			],
+			[
+				"fil",
+				"file_system"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "exit",
+		"selected_items":
+		[
+			[
+				"exit",
+				"Gulp: Exit editor killing running tasks"
+			],
+			[
+				"gulp show",
+				"Gulp: Show panel"
+			],
+			[
+				"gulp last",
+				"Gulp: Run last task"
+			],
+			[
+				"kill",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"mark editing image",
+				"MarkdownEditing: New Image"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jekyll",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"FTPSync: Upload current file"
+			],
+			[
+				"download",
+				"FTPSync: Download current file"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gulp panel",
+				"Gulp: Show panel"
+			],
+			[
+				"gulp kill",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gulp exit",
+				"Gulp: Exit editor killing running tasks"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"code",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"javascript",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"down",
+				"FTPSync: Download current file"
+			],
+			[
+				"commit",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"upload",
+				"FTPSync: Upload current file"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"shell",
+				"Shell Exec: Open"
+			],
+			[
+				"coment",
+				"Toggle Comment"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"unfold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"code css",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"ftp upload",
+				"FTPSync: Upload current file"
+			],
+			[
+				"commi",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"wrap w",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"open in",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"codeform",
+				"CodeFormatter: Format as CSS Syntax"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"wrapw",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"wraw",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wt",
+				"Word Wrap: Toggle"
+			],
+			[
+				"filezilla",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"sublimezilla",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"cancel",
+				"Tasks: Cancel"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sftp",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"char",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Emmet: Balance (outward)"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php echo $this->… ?>"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"gulp",
+			"def",
+			"help",
+			"dir",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/Audiovisual/package.json",
+		"/C/Users/Audiovisual/Gruntfile.js",
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_posts/2016-05-09-como-acertar-na-compra-do-ar-condicionado.markdown",
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_posts/2016-05-09-principais-aplicacoes-de-um-sistema-de-ar-condicionado.markdown",
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_posts/2016-06-09-beneficios-do-ar-condicionado-para-produtividade-e-saude.markdown",
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_posts/2016-06-02-lembre-se-da-manutencao-limpeza-e-higienizacao-periodica-do-ar-condicionado.markdown",
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_posts/2016-05-09-como-acertar-na-compra.markdown",
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_sass/_grid.scss",
+		"/C/Users/Audiovisual/GitHub/jhsar.github.io/_sass/_layout.scss",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/sass/parts/_vars.sass",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/index.html",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/sass/parts/_spin.sass",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/sass/main.sass",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/sass/parts/_base.sass",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/sass/parts/_layout.sass",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/browserconfig.xml",
+		"/C/Users/Audiovisual/Google Drive/PROJETOS/JCR/backup_jcr/templates/index.html",
+		"/C/Users/Audiovisual/Google Drive/PROJETOS/JCR/backup_jcr/includes/defines.php",
+		"/C/Users/Audiovisual/Google Drive/PROJETOS/JCR/backup_jcr/index.php",
+		"/C/Users/Audiovisual/AppData/Local/Temp/Temp1_html5-boilerplate-master.zip/html5-boilerplate-master/dist/crossdomain.xml",
+		"/C/Users/Audiovisual/AppData/Local/Temp/Temp1_html5-boilerplate-master.zip/html5-boilerplate-master/dist/.editorconfig",
+		"/C/Users/Audiovisual/AppData/Local/Temp/Temp1_html5-boilerplate-master.zip/html5-boilerplate-master/dist/browserconfig.xml",
+		"/C/Users/Audiovisual/GitHub/jcrinformatica.github.io/coffee/main.coffee",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/_site/index.html",
+		"/C/Users/Audiovisual/GitHub/Github.sublime-project",
+		"/C/Users/Audiovisual/GitHub/JHS/_sass/_layout.scss",
+		"/C/Users/Audiovisual/GitHub/JHS/_sass/_base.scss",
+		"/C/Users/Audiovisual/GitHub/JHS/_posts/2016-06-02-lembre-se-da-manutencao-limpeza-e-higienizacao-periodica-do-ar-condicionado.markdown",
+		"/C/Users/Audiovisual/GitHub/JHS/_sass/_vars.scss",
+		"/C/Users/Audiovisual/GitHub/JHS/_sass/_grid.scss",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_sass/_vars.scss",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_sass/_base.scss",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_sass/_layout.scss",
+		"/C/Users/Audiovisual/GitHub/JHS/_posts/2016-05-09-como-acertar-na-compra.markdown",
+		"/C/Users/Audiovisual/GitHub/JHS/_posts/2016-05-09-as-vantagens-de-um-sistema-de-ar-condicionado.markdown",
+		"/C/Users/Audiovisual/GitHub/JHS/2blog.html",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/coffee/main.coffee",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/footer.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/header.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_hero-home.html",
+		"/C/Users/Audiovisual/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/C/Users/Audiovisual/AppData/Roaming/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/C/Users/Audiovisual/GitHub/JHS/_site/google6fb37ae82eecf839.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_layouts/post.html",
+		"/C/Users/Audiovisual/GitHub/JHS/email_com_erro.html",
+		"/C/Users/Audiovisual/GitHub/JHS/erros/400.html",
+		"/C/Users/Audiovisual/GitHub/JHS/erros/401.html",
+		"/C/Users/Audiovisual/GitHub/JHS/erros/403.html",
+		"/C/Users/Audiovisual/GitHub/JHS/erros/404.html",
+		"/C/Users/Audiovisual/GitHub/JHS/erros/500.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_hero-msg.html",
+		"/C/Users/Audiovisual/GitHub/JHS/email_enviado.html",
+		"/C/Users/Audiovisual/GitHub/JHS/email_incompleto.html",
+		"/C/Users/Audiovisual/GitHub/JHS/enviar_email.php",
+		"/C/Users/Audiovisual/GitHub/JHS/_site/email_com_erro.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_site/email_enviado.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_site/email_incompleto.html",
+		"/C/Users/Audiovisual/GitHub/jhs_www/enviar_email.php",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_hero-email.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/head.html",
+		"/C/Users/Audiovisual/GitHub/jhs_www/ftpsync.settings",
+		"/C/Users/Audiovisual/GitHub/JHS/index.html",
+		"/C/Users/Audiovisual/GitHub/JHS/1manutencao.md",
+		"/C/Users/Audiovisual/GitHub/JHS/_layouts/default.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_sobre.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_galeria.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_config.yml",
+		"/C/Users/Audiovisual/GitHub/CarrosClube/sass/parts/_layout.sass",
+		"/C/Users/Audiovisual/GitHub/CarrosClube/sass/parts/_flex.sass",
+		"/C/Users/Audiovisual/GitHub/CarrosClube/sass/parts/_base.sass",
+		"/C/Users/Audiovisual/GitHub/CarrosClube/sass/parts/_vars.sass",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_blog.html",
+		"/C/Users/Audiovisual/GitHub/JHS/css/main.scss",
+		"/C/Users/Audiovisual/GitHub/JHS/_layouts/page.html",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_hero.html",
+		"/C/Users/Audiovisual/AppData/Local/Temp/Temp1_bd59b72ed1542164a232f06693af6f47.ico.zip/manifest.json",
+		"/C/Users/Audiovisual/GitHub/JHS/_includes/_sobre.markdown",
+		"/C/Users/Audiovisual/GitHub/JHS/img/hamburguer-JHS.svg",
+		"/C/Users/Audiovisual/Desktop/Carrefour 2016-05.csv",
+		"/C/Users/Audiovisual/GitHub/JHS/about.md",
+		"/C/Users/Audiovisual/GitHub/JHS/_posts/2016-05-09-welcome-to-jekyll.markdown",
+		"/Z/APRO/2016/1BM/Matheus Gramática/APRO-2016-1bm-gramatica-1ano/slides.xml",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_includes/head.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_config.yml",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_layouts/post.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/500.md",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/404.md",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/403.md",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/401.md",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/400.md",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_layouts/erro.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_includes/header.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_layouts/page.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/500.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/404.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/403.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/erros/401.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/index.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/web.config",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_site/web.config",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/contato.asp",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_site/index.html",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/index.html",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/sass/parts/_base.sass",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/sass/parts/_vars.sass",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/sass/parts/_layout.sass",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/sass/parts/_normalize.sass",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/sass/main.sass",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/coffee/main.coffee",
+		"/C/Users/Audiovisual/GitHub/UrnaEletronica/coffee/http.coffee",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_includes/footer.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_site/ftpsync.settings",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_layout.sass",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/index.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/sobre.md",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/README.md",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/feed.xml",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_vars.sass",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/menu.markdown",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_normalize.sass",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_base.sass",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/sass/parts/_flex.sass",
+		"/C/Users/Audiovisual/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+		"/C/Users/Audiovisual/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/Audiovisual/GitHub/PontoDaGula/menu.json",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/index.asp",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_includes/section-summary.html",
+		"/C/Users/Audiovisual/GitHub/triunfocursos/_posts/2007-12-18-Carlos-Nunes-ganha-causa-contra-universidade.markdown"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" * 2",
+			"\n  </li>\n  <li>",
+			"grid _column _center",
+			"15deg",
+			"4",
+			"20px",
+			"6",
+			"10",
+			"3em",
+			"[{};]",
+			"*",
+			"1",
+			"margin-bottom",
+			"of-type",
+			" ",
+			"laptop",
+			"* ",
+			"2em",
+			" $",
+			"cell",
+			"introduza",
+			"@extend padding;",
+			"%",
+			"vertical-rhythm",
+			"<div class=\"cell _nospace\">",
+			"		</div>\n		<div class=\"cell _nospace\">\n",
+			"<div class=\"cell\">",
+			".jpg",
+			" class=\"cell _1of2\"",
+			"vertical-rhythm",
+			"error",
+			"404",
+			"aspx",
+			"html",
+			"div",
+			"start",
+			"large",
+			"prop",
+			"parts/",
+			"</dt>",
+			"<h3>",
+			"<dd>",
+			"li",
+			"strong",
+			"<strong>",
+			"<br>",
+			"__\n",
+			"### ",
+			"__$",
+			"[",
+			",",
+			"\\}, \\{",
+			"^\\t{1}([\"\\w]+)",
+			",\\s*\\n\\t{1}([^\\t,]+),",
+			"\\n\\t{1}([^\\t,]+),",
+			"^\\t{1}([^\\t,]+),",
+			",$",
+			"^\\t(.+),",
+			"\\t{1,1}(.+),",
+			"^(.+)",
+			"^(.*)",
+			"^",
+			"\\t([^\"]*?)",
+			" (100g)",
+			"svg",
+			"![](",
+			"0",
+			" class=\"slide\"",
+			"slidesArr",
+			"30",
+			"svg",
+			"1em",
+			" class=\"slide\"",
+			"p",
+			"li",
+			"margin",
+			"#e85c41",
+			"#mc_embed_signup ",
+			"h1",
+			"home",
+			"brand-color",
+			" */",
+			"{",
+			";",
+			"github",
+			"-",
+			"1.",
+			"-",
+			"selected",
+			"toggle",
+			"text-align",
+			"img src=\"\"",
+			"margin",
+			"5em",
+			"src.*lorempixel\\.com.*\" w",
+			"src=\".*lorempixel.com.*\" alt",
+			"3em",
+			";",
+			" }",
+			";",
+			" ?{",
+			";",
+			"2",
+			"150",
+			"&",
+			"favicon",
+			"src",
+			"src=\"http://lorempixel.com/127/127/food\"",
+			"<img src=\"http://lorempixel.com/127/127/food\"",
+			"<img src=\"http://lorempixel.com/127/127/food\" alt=\"\">",
+			"img",
+			": 0",
+			"0",
+			"//",
+			"(http://lorempixel.com/\\d+/\\d+/)\\w*",
+			"http://lorempixel.com(/\\d+/\\d+/)\\w*",
+			"(http://lorempixel.com/\\d+/\\d+/)\\w+",
+			"\\t+",
+			"<li>\n                                    <img src=\"http://lorempixel.com",
+			"160",
+			"people",
+			"160",
+			"82",
+			"160",
+			"places",
+			"http://lorempixel.com/160/160",
+			"width=\"200",
+			"<li>\n                                    <img src=\"http://lorempixel.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"@extend %padding;",
+			"",
+			"__<br>",
+			"[\\n",
+			",\\n",
+			"},\\n{",
+			"},\\n{\\n\\ttitle : \\1,\\n\\titems",
+			"\\n\\n\\t],\\n\\t\\1 : [",
+			"\\t],\\n\\t\\1 : [",
+			"],\\n\\t\\1 : [",
+			"\\t\\1 :",
+			"\"\\1\",",
+			"\\t\"\\1\",",
+			"$error-color",
+			"",
+			"\\n*/",
+			"",
+			"img src=\"http://loremflickr.com/70/70/food\"",
+			"src=\"\" w",
+			"src=\"\" alt",
+			"",
+			"\\1food",
+			"http://loremflickr.com\\1food",
+			"\\1food",
+			"",
+			"<br>\\n",
+			" • ",
+			"WHERE opcao_curso",
+			";\\n",
+			"' WHERE aprovados = '",
+			"'\\nUPDATE aprovados SET opcao_curso = '",
+			";",
+			"('\\1','\\2','\\3')",
+			"),\\n(",
+			"",
+			"\\1\\2;\\3",
+			"\\1",
+			";-\\1",
+			"\\1;",
+			"\\1",
+			";-\\1",
+			"\\n",
+			";\\1",
+			"",
+			"\\t",
+			"\\1 \\2",
+			";",
+			"ó",
+			"ê",
+			"\"",
+			"á",
+			"í",
+			"é",
+			"ç",
+			"ã",
+			"”",
+			"\"",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			" ",
+			"– ",
+			"\\n\\n",
+			"\\n",
+			" ",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n",
+			" ",
+			"",
+			" ",
+			"",
+			"\"",
+			"",
+			" ",
+			"\\n",
+			"<br>",
+			"",
+			" ",
+			", ",
+			" ",
+			"",
+			"– ",
+			", ",
+			".png",
+			"",
+			"\\n\\t",
+			": ",
+			":",
+			"",
+			".[png, jpg]\"",
+			", ",
+			"",
+			"sl-container",
+			"search",
+			"$lista_container",
+			"$lista",
+			"\\n\\t\\t\\t,\\t",
+			"\\n\\t,\\t",
+			"\\n\\t\\t,",
+			"\\n\\t,",
+			"\"\\1\"",
+			"\"",
+			"\n		{\n			title : \"\\2\",\n			teacher : \"\",\n			desc : \"\",\n			album : [\n				{ type : \"flickr_album\", caption : false, user : \"131087492@N07\", id : \"\\1\" }\n			]\n		},",
+			"^\\1$",
+			"|",
+			"$",
+			"^",
+			"\\n",
+			"|",
+			"(\\1)",
+			"|",
+			"(\\1)",
+			"\\n",
+			"|",
+			"\\n",
+			"|"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 69.0
+	},
+	"output.markdown":
+	{
+		"height": 64.0
+	},
+	"output.sftp":
+	{
+		"height": 52.0
+	},
+	"output.unicode_preview":
+	{
+		"height": 682.0
+	},
+	"pinned_build_system": "",
+	"project": "jhsar.github.io.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"brow",
+				"jcrinformatica.github.io\\browserconfig.xml"
+			],
+			[
+				"urnaindex",
+				"UrnaEletronica\\index.html"
+			],
+			[
+				"_syn",
+				"triunfocursos\\_sass\\_syntax-highlighting.scss"
+			],
+			[
+				"_lay",
+				"triunfocursos\\_sass\\_layout.scss"
+			],
+			[
+				"triunfocursos",
+				"triunfocursos\\about.md"
+			],
+			[
+				"triunfohead",
+				"triunfocursos\\_includes\\head.html"
+			],
+			[
+				"triunfodefault",
+				"triunfocursos\\_layouts\\default.html"
+			],
+			[
+				"triunfoindex",
+				"triunfocursos\\index.html"
+			],
+			[
+				"triunfo",
+				"triunfocursos\\_config.yml"
+			],
+			[
+				"lau",
+				"PontoDaGula\\sass\\parts\\_layout.sass"
+			],
+			[
+				"layo",
+				"PontoDaGula\\sass\\parts\\_layout.sass"
+			],
+			[
+				"coffee",
+				"PontoDaGula\\coffee\\main.coffee"
+			],
+			[
+				"flex",
+				"PontoDaGula\\sass\\parts\\_flex.sass"
+			],
+			[
+				"main.coffee",
+				"PontoDaGula\\coffee\\main.coffee"
+			],
+			[
+				"ham",
+				"PontoDaGula\\sass\\parts\\_hamburgers.sass"
+			],
+			[
+				"_ha",
+				"PontoDaGula\\sass\\parts\\_hamburgers.sass"
+			],
+			[
+				"main",
+				"PontoDaGula\\sass\\main.sass"
+			],
+			[
+				"var",
+				"CarrosClube\\sass\\parts\\_vars.sass"
+			],
+			[
+				"npm",
+				"npm-build-boilerplate\\package.json"
+			],
+			[
+				"npm-build",
+				"npm-build-boilerplate\\index.html"
+			],
+			[
+				"seligasass",
+				"seliga\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seligasasslayout",
+				"seliga\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seligasassglo",
+				"seliga\\sass\\partials\\_global.sass"
+			],
+			[
+				"seligasassglobal",
+				"seliga\\sass\\partials\\_global.sass"
+			],
+			[
+				"seligasassmix",
+				"seliga\\sass\\_mixins.sass"
+			],
+			[
+				"seligacoffeeseliga",
+				"seliga\\coffee\\seliga.coffee"
+			],
+			[
+				"seligasassmain",
+				"seliga\\sass\\main.sass"
+			],
+			[
+				"seligasasslay",
+				"seliga\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seligacoffee",
+				"seliga\\coffee\\main.coffee"
+			],
+			[
+				"seligaglobal",
+				"seliga\\sass\\partials\\_global.sass"
+			],
+			[
+				"seligaindex",
+				"seliga\\index.html"
+			],
+			[
+				"seligacoffeemain",
+				"seliga\\coffee\\main.coffee"
+			],
+			[
+				"sasshel",
+				"seliga-desktop\\sass\\partials\\_helpers.sass"
+			],
+			[
+				"sasstoggle",
+				"seliga-desktop\\sass\\partials\\_toggle.sass"
+			],
+			[
+				"sassmain",
+				"seliga-desktop\\sass\\main.sass"
+			],
+			[
+				"sasslayout",
+				"seliga-desktop\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seliga-desktopindex",
+				"seliga-desktop\\index.html"
+			],
+			[
+				"toggle",
+				"seliga-desktop\\sass\\partials\\_toggle.sass"
+			],
+			[
+				"helpers",
+				"seliga-desktop\\sass\\partials\\_helpers.sass"
+			],
+			[
+				"seliga",
+				"seliga-desktop\\coffee\\main.coffee"
+			],
+			[
+				"seliga-desktopsasslay",
+				"seliga-desktop\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seliga-desktopsass",
+				"seliga-desktop\\sass\\partials\\_global.sass"
+			],
+			[
+				"seligasasshelpers",
+				"seliga-desktop\\sass\\partials\\_helpers.sass"
+			],
+			[
+				"seliga-desktopcoffee",
+				"seliga-desktop\\coffee\\http.coffee"
+			],
+			[
+				"seliga-desktop",
+				"seliga-desktop\\ref-item.json"
+			],
+			[
+				"partialslayout",
+				"seliga-desktop\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seligalayout",
+				"seliga-desktop\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seligavars",
+				"seliga-desktop\\sass\\partials\\_vars.sass"
+			],
+			[
+				"livro2015sass",
+				"livro-digital-2015\\sass\\partials\\_layout.sass"
+			],
+			[
+				"global",
+				"seliga-desktop\\sass\\partials\\_global.sass"
+			],
+			[
+				"lay",
+				"seliga-desktop\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seliga-desktopseliga.",
+				"seliga-desktop\\coffee\\seliga.coffee"
+			],
+			[
+				"_global",
+				"seliga-desktop\\sass\\partials\\_global.sass"
+			],
+			[
+				"main.sass",
+				"seliga-desktop\\sass\\main.sass"
+			],
+			[
+				"seliga-desktoplayout",
+				"seliga-desktop\\sass\\partials\\_layout.sass"
+			],
+			[
+				"seliga-desktophttp",
+				"seliga-desktop\\coffee\\http.coffee"
+			],
+			[
+				"seliga-desktopref",
+				"seliga-desktop\\ref-item.json"
+			],
+			[
+				"seliga-desktopvars",
+				"seliga-desktop\\sass\\partials\\_vars.sass"
+			],
+			[
+				"seligamain.coffee",
+				"seliga-desktop\\coffee\\main.coffee"
+			],
+			[
+				"_glo",
+				"seliga-desktop\\sass\\partials\\_global.sass"
+			],
+			[
+				"http",
+				"seliga-desktop\\coffee\\http.coffee"
+			],
+			[
+				"seliga.coffee",
+				"seliga-desktop\\coffee\\seliga.coffee"
+			],
+			[
+				"livrosassvars",
+				"livro-digital-2015\\sass\\partials\\_vars.sass"
+			],
+			[
+				"livroindex",
+				"livro-digital-2015\\index.html"
+			],
+			[
+				"livro2015main",
+				"livro-digital-2015\\sass\\main.sass"
+			],
+			[
+				"livro2015partials",
+				"livro-digital-2015\\sass\\partials\\_global.sass"
+			],
+			[
+				"livro2015",
+				"livro-digital-2015\\sass\\partials\\_layout.sass"
+			],
+			[
+				"livro2014",
+				"site\\www\\livro-digital-2014\\index.asp"
+			],
+			[
+				"artesindex",
+				"artes\\releituras-2015\\index.html"
+			],
+			[
+				"livroasp",
+				"livro-digital-2015\\asp\\FILE.asp"
+			],
+			[
+				"tempmain.js",
+				"temp\\www\\seliga\\js\\main.js"
+			],
+			[
+				"seliga.js",
+				"temp\\www\\seliga\\js\\seliga.js"
+			],
+			[
+				"tempseliga.js",
+				"temp\\www\\seliga\\js\\seliga.js"
+			],
+			[
+				"tempseligacss",
+				"temp\\www\\seliga\\css\\main.css"
+			],
+			[
+				"",
+				"site\\www\\seliga\\index.html"
+			],
+			[
+				"tempwww",
+				"temp\\www\\index.html"
+			],
+			[
+				"temp",
+				"temp\\seliga\\js\\plugins.js"
+			],
+			[
+				"tempplugins",
+				"temp\\seliga\\js\\plugins.js"
+			],
+			[
+				"tempseligamain.js",
+				"temp\\seliga\\js\\main.js"
+			],
+			[
+				"temp/seliga/js",
+				"temp\\seliga\\js\\main.js"
+			],
+			[
+				"tempseliga",
+				"temp\\seliga\\css\\main.css"
+			],
+			[
+				"temp/seliga",
+				"temp\\seliga\\index.html"
+			],
+			[
+				"index",
+				"site\\www\\index.html"
+			],
+			[
+				"seligamain.js",
+				"seliga\\js\\main.js"
+			],
+			[
+				"seliga/js",
+				"seliga\\js\\main.js"
+			],
+			[
+				"releituras2015",
+				"artes\\releituras-2015\\ponta.json"
+			],
+			[
+				"artes2015json",
+				"artes\\releituras-2015\\ponta.json"
+			],
+			[
+				"releituras-2015json",
+				"artes\\releituras-2015\\embare.json"
+			],
+			[
+				"artesreleituras",
+				"artes\\releituras-2015\\sve.json"
+			],
+			[
+				"ibope-curso",
+				"pesquisa\\IBOPE-curso\\index.asp"
+			],
+			[
+				"artes2015",
+				"artes\\releituras-2015\\sve.json"
+			],
+			[
+				"artescss",
+				"artes\\css\\main.css"
+			],
+			[
+				"guruja",
+				"artes\\releituras-2015\\guaruja.json"
+			],
+			[
+				"sve.j",
+				"artes\\releituras-2015\\sve.json"
+			],
+			[
+				"sve.json",
+				"artes\\releituras-2015\\sve.json"
+			],
+			[
+				"sve",
+				"artes\\releituras-2015\\sve.json"
+			],
+			[
+				"ponta",
+				"artes\\releituras-2015\\ponta.json"
+			],
+			[
+				"guaruja",
+				"artes\\releituras-2015\\guaruja.json"
+			],
+			[
+				"galeria2",
+				"artes\\js\\galeria.2.0.js"
+			],
+			[
+				"releiturasguaruja",
+				"artes\\releituras-2015\\guaruja.json"
+			],
+			[
+				"releiturasponta",
+				"artes\\releituras-2015\\ponta.json"
+			],
+			[
+				"seliga/index",
+				"seliga\\index.html"
+			],
+			[
+				"artesmain.css",
+				"artes\\css\\main.css"
+			],
+			[
+				".json",
+				"artes\\releituras-2013\\6.json"
+			],
+			[
+				"partes",
+				"partes-do-brasil-em-prosa\\api.asp"
+			],
+			[
+				"urnajs",
+				"urna-eletronica\\js\\script.js"
+			],
+			[
+				"livrocss",
+				"site\\www\\livro-digital-sem-titulo\\css\\main.css"
+			],
+			[
+				"livro",
+				"site\\www\\livro-digital-sem-titulo\\index.asp"
+			],
+			[
+				"camiseta",
+				"pesquisa\\camiseta-vestibular-2015\\index.asp"
+			],
+			[
+				"pesquisacamiseta",
+				"pesquisa\\camiseta-vestibular-2015\\voto.asp"
+			],
+			[
+				"rela",
+				"urna-eletronica\\relatorio.asp"
+			],
+			[
+				"wrap",
+				"site\\www\\recursos\\app\\css\\app-main.css"
+			],
+			[
+				"urnacss",
+				"urna-eletronica\\css\\style.css"
+			],
+			[
+				"gale",
+				"artes\\js\\galeria.js"
+			],
+			[
+				"manifest",
+				"artes\\releituras-2014\\offline.manifest"
+			],
+			[
+				"galeria",
+				"artes\\primeiro-e-segundo-reinado\\galeria.json"
+			],
+			[
+				"artesjs",
+				"artes\\js\\galeria.js"
+			],
+			[
+				"testevocacional",
+				"site\\www\\testevocacional\\index.html"
+			],
+			[
+				".mani",
+				"site\\www\\testevocacional\\offline.manifest"
+			],
+			[
+				"todo",
+				"livro-digital-sem-titulo\\livro-digital.TODO"
+			],
+			[
+				"livrojs",
+				"livro-digital-sem-titulo\\js\\main.js"
+			],
+			[
+				"asp",
+				"livro-digital-sem-titulo\\asp\\BASE.asp"
+			],
+			[
+				"livrologin",
+				"livro-digital-sem-titulo\\login.asp"
+			],
+			[
+				"login",
+				"livro-digital-sem-titulo\\login.asp"
+			],
+			[
+				"index.asp",
+				"livro-digital-sem-titulo\\index.asp"
+			],
+			[
+				"sublime",
+				"site\\objetivoweb.sublime-project"
+			],
+			[
+				"livro.todo",
+				"livro-digital-sem-titulo\\livro-digital.TODO"
+			],
+			[
+				"base",
+				"livro-digital-sem-titulo\\asp\\BASE.asp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Audiovisual\\Projetos\\objetivoweb\\site\\consuldata\\objetivoweb.sublime-project"
+			],
+			[
+				"webnets",
+				"C:\\Users\\Audiovisual\\Projetos\\WebNets\\seliga-www.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
