@@ -8,7 +8,7 @@
 # Site settings
 title: JHS Ar-condicionado
 telefones: (15) 3213-9347 / 9 9604-1334
-endereco: 'Rua Pedro Sola Verdun, 896'
+endereco: Rua Pedro Sola Verdun, 896
 bairro: Jardim J. S. Carvalho
 cidade: Sorocaba – SP﻿
 description: > # this means to ignore newlines until "baseurl:"
@@ -21,3 +21,5 @@ url: "http://jhsar.com.br" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+exclude: ['*.sublime-project', '*.sublime-workspace']

@@ -5,12 +5,10 @@
 			"path": "."
 		},
 		{
-			"follow_symlinks": true,
-			"path": "C:\\Users\\Audiovisual\\GitHub\\jhsar.github.io\\_sass"
+			"path": "_sass"
 		},
 		{
-			"follow_symlinks": true,
-			"path": "C:\\Users\\Audiovisual\\GitHub\\jhsar.github.io\\_posts"
+			"path": "_posts"
 		}
 	]
 }

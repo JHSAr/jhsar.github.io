@@ -21,6 +21,11 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    box-sizing: border-box;
+
+    * {
+        box-sizing: inherit;
+    }
 }
 
 
