@@ -257,7 +257,7 @@
         }
     }
 
-    p, ul, ol, blockquote, ._inner {
+    p, ul, ol, blockquote, .inner {
         margin-left: auto;
         margin-right: auto;
         max-width: $on-laptop;
@@ -276,16 +276,14 @@
         }
     }
 
-    ._inner, ._pull {
-        margin-top: $spacing-unit;
-        margin-bottom: $spacing-unit;
+    .inner, .pull {
+        margin-top: $spacing-unit / 2;
+        margin-bottom: $spacing-unit / 2;
     }
-    ._left {
-        float: left;
-        margin-right: $spacing-unit;
-    }
-    ._right {
-        float: right;
-        margin-left: $spacing-unit;
-    }
+
+}
+
+#disqus_thread {
+    max-width: $on-laptop;
+    margin: auto;
 }
