@@ -292,11 +292,13 @@ button {
     display: block;
     float: left;
     margin-right: $spacing-unit;
+    margin-bottom: $spacing-unit;
 }
 .right {
     display: block;
     float: right;
     margin-left: $spacing-unit;
+    margin-bottom: $spacing-unit;
 }
 .left, .right {
     &+* {
