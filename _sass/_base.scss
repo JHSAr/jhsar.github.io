@@ -37,6 +37,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
+    margin-top: $spacing-unit / 2;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -77,6 +78,7 @@ ul, ol {
 li {
     > ul,
     > ol {
+         margin-top: 0;
          margin-bottom: 0;
     }
 }
@@ -135,10 +137,6 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
-
-    > :last-child {
-        margin-bottom: 0;
-    }
 }
 
 

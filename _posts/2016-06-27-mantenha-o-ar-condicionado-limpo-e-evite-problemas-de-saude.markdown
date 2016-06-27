@@ -21,9 +21,9 @@ O aparelho capta o ar do próprio ambiente e passa por um filtro, normalmente de
 
 A higienização torna o ambiente climatizado mais saudável, reduz o custo de energia, prolonga a vida útil do equipamento e evita a queima de compressores e motores, que têm alto custo para conserto.
 
-<div class="grid">
-  <div class="cell"><img src="https://c2.staticflickr.com/8/7313/27657308140_cc86a38572_o.jpg" alt="filtro de ar-condicionado lavado com água"></div>
-  <div class="cell"><p>A limpeza do ar-condicionado é necessária para evitar problemas de saúde. O cuidado básico é fazer a lavagem do filtro de ar, apenas com água, pelo menos uma vez por mês. Também é necessário fazer a limpeza completa duas vezes por ano, com o auxílio de profissionais da área.</p></div>
+<div class="grid _center">
+  <div class="cell _1of3"><img src="https://c2.staticflickr.com/8/7313/27657308140_cc86a38572_o.jpg" alt="filtro de ar-condicionado lavado com água"></div>
+  <div class="cell _2of3"><p>A limpeza do ar-condicionado é necessária para evitar problemas de saúde. O cuidado básico é fazer a lavagem do filtro de ar, apenas com água, pelo menos uma vez por mês. Também é necessário fazer a limpeza completa duas vezes por ano, com o auxílio de profissionais da área.</p></div>
 </div>
 
 <div class="grid inner">
