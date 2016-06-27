@@ -4,7 +4,7 @@ title      : "Como manter o ar-condicionado limpo e higienizado, e outras dicas 
 categories : blog saude limpeza higienizacao
 ---
 
-<div class="grid">
+<div class="grid pull">
   <div class="cell">
     <p>Ar-condicionado é o nosso principal companheiro nos dias quentes, tanto em casa como na empresa, sendo obrigatório em muitos ambientes. É inegável que o ar-condicionado climatiza, evita malefícios e deixa o ambiente mais agradável, mas também pode ser o principal motivo para algumas doenças. As pessoas sensíveis têm alergia, coceira na pele, sinusite, bronquite, asma e irritação nos olhos.</p>
   </div>
