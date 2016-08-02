@@ -1,6 +1,6 @@
 ---
 layout: page
-header: _hero-home.html
+header: hero/home.html
 title: Manutenção
 permalink: /manutencao/
 excerpt: A manutenção do ar-condicionado evita transtornos principalmente à saúde e ao próprio equipamento, que sofre maior desgaste quando não recebe a manutenção necessária.
