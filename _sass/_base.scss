@@ -342,3 +342,31 @@ button {
         opacity: 0;
     }
 }
+
+
+.tw-share-button {
+    height: 28px;
+}
+
+.wa-share-button {
+
+    a {
+        display: inline-block;
+        background-color: #218e21;
+        color: #FFF;
+        border-radius: 4px;
+        padding: 0 10px;
+        line-height: 28px;
+        height: 28px;
+        font-size: 14px;
+        font-weight: bold;
+
+        &:before {
+            content: url('/img/icon-whatsapp.png');
+            display: inline-block;
+            vertical-align: middle;
+            width: 22px;
+            height: 25px;
+        }
+    }
+}

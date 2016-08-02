@@ -1,1 +1,3 @@
-<a class="{{ include.class }}" href="whatsapp://send?text={{ include.text | append: ' ' | append: site.url | append: site.baseurl | append: page.url | cgi_escape }}" target="_top" onclick="window.parent.null">{{ include.label }}</a>
+<div class="cell _shrink wa-share-button">
+	<a class="{{ include.class }}" href="whatsapp://send?text={{ include.text | append: ' ' | append: site.url | append: site.baseurl | append: page.url | cgi_escape }}" target="_top" onclick="window.parent.null">{{ include.label }}</a>
+</div>

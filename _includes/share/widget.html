@@ -1,1 +1,5 @@
-{% include btn-whatsapp.html class="widget btn-whatsapp" text="{{ page.title }} {{ page.url }}" %}
+<div class="share-widget grid _center _start">
+	{% include share/btn-facebook.html %}
+	{% include share/btn-twitter.html label='Tuitar' %}
+	{% include share/btn-whatsapp.html class='widget btn-whatsapp' text=page.title label='Repassar' %}
+</div>

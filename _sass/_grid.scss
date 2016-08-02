@@ -37,13 +37,9 @@
     }
 
     &._start {
-        align-items: flex-start;
-        align-content: flex-start;
         justify-content: flex-start;
     }
     &._end {
-        align-items: flex-end;
-        align-content: flex-end;
         justify-content: flex-end;
     }
 
@@ -68,7 +64,7 @@
 
     .cell {
 
-        flex: 1;
+        flex: 1 1 auto;
         min-width: 0;
 
         &._1of2 {
