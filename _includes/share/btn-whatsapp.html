@@ -1,0 +1,1 @@
+<a class="{{ include.class }}" href="whatsapp://send?text={{ include.text | append: site.url | append: page.url | cgi_escape }}" target="_top" onclick="window.parent.null">{{ include.label }}</a>
