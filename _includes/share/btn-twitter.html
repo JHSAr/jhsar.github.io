@@ -1,4 +1,9 @@
 {% assign href = site.url | append: site.baseurl | append: page.url %}
+{% if page.title %}
+	{% assign title = page.title %}
+{% else %}
+	{% assign title = site.title %}
+{% endif %}
 <div class="cell _shrink tw-share-button">
-	<a target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title | append: '' | cgi_escape }}&url={{ href | cgi_escape }}" title="Compartilhar no Twitter">{% include icon/twitter.svg %}</a>
+	<a target="_blank" href="https://twitter.com/intent/tweet?text={{ title | append: '' | cgi_escape }}&url={{ href | cgi_escape }}" title="Compartilhar no Twitter">{% include icon/twitter.svg %}</a>
 </div>
