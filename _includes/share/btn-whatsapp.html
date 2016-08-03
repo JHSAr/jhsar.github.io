@@ -1,3 +1,4 @@
-<div class="cell _shrink wa-share-button">
 {% assign href = site.url | append: site.baseurl | append: page.url %}
+<div class="cell _shrink wa-share-button">
+	<a class="{{ include.class }}" href="whatsapp://send?text={{ page.title | append: ' ' | append: href | cgi_escape }}" target="_top" onclick="window.parent.null" title="Enviar pelo Whatsapp (apenas no celular)">{% include icon/whatsapp.svg %}</a>
 </div>
