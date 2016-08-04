@@ -5,5 +5,5 @@
 	{% assign title = site.title %}
 {% endif %}
 <div class="cell _shrink tw-share-button">
-	<a class="{{ include.class }}" target="_blank" href="https://twitter.com/intent/tweet?text={{ title | append: '' | cgi_escape }}&url={{ href | cgi_escape }}" onclick="ga('send', 'event', 'Compartilhar', 'Twitter', location.pathname + ' @ ' + '{{ include.class }}');" title="Compartilhar no Twitter">{% include icon/twitter.svg %}</a>
+	<a class="{{ include.class }}" target="_blank" href="https://twitter.com/intent/tweet?text={{ title | append: '' | cgi_escape }}&url={{ href | cgi_escape }}" onclick="ga('send', 'event', 'Compartilhar', 'Twitter', location.pathname + ' @ ' + '{{ include.class | append: ' ' | append: include.position }}');" title="Compartilhar no Twitter">{% include icon/twitter.svg %}</a>
 </div>
