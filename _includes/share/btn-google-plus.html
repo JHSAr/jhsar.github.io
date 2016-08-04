@@ -1,4 +1,4 @@
 {% assign href = site.url | append: site.baseurl | append: page.url %}
 <div class="cell _shrink gp-share-button">
-	<a class="{{ include.class }}" href="https://plus.google.com/share?url={{ href | cgi_escape }}" target="_blank" title="Compartilhar no Google Plus">{% include icon/google.svg %}</a>
+	<a class="{{ include.class }}" href="https://plus.google.com/share?url={{ href | cgi_escape }}" target="_blank" onclick="ga('send', 'event', 'Compartilhar', 'Google Plus', location.pathname + ' @ ' + '{{ include.class }}');" title="Compartilhar no Google Plus">{% include icon/google.svg %}</a>
 </div>

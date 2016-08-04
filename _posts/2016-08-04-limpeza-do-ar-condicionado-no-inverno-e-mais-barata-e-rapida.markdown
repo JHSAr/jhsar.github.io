@@ -11,23 +11,25 @@ categories: blog limpeza economia
 
 Fazer limpeza em aparelhos de ar condicionado, ou mesmo comprar durante o inverno é muito mais barato, do que no verão. Além disso, os consumidores contam com uma maior disponibilidade de tempo dos profissionais. Técnicos da área sugerem sua manutenção no período frio porque a demanda pelo serviço diminui, quando, segundo apontam, deveria aumentar. Recomendam também que a limpeza do ar-condicionado seja feita pelo menos quatro vezes ao ano em residências. Em empresas, com aparelhos mais potentes, a limpeza deve ser feita no mínimo uma vez ao mês.
 
-<hr>
+---
+
 <p class="grid _center inner"><strong>A demanda grande na época de calor</strong></p>
 <div class="grid _center _justify inner">
     <div class="cell">
         <img src="https://c1.staticflickr.com/9/8486/28691327361_4934155722_o.png" alt="60% mais caro do que no inverno">
     </div>
     <div class="cell">
-        <p><span style="font-weight:bold;display:block;line-height:70px;font-size:70px;">60%</span> mais caro do que no inverno</p>
+        <p><span style="text-align:center;font-weight:bold;display:block;line-height:70px;font-size:70px;">60%</span> mais caro do que no inverno</p>
     </div>
     <div class="cell">
         <img src="https://c1.staticflickr.com/9/8849/28663205862_23d7098b9e_o.png" alt="fila de espera de até 30 dias">
     </div>
     <div class="cell">
-        <p><span style="font-weight:bold;display:block;line-height:55px;font-size:50px;text-align:center;">15 a 30</span> dias de espera para ser atendido</p>
+        <p><span style="text-align:center;font-weight:bold;display:block;line-height:55px;font-size:50px;">15 a 30</span> dias de espera para ser atendido</p>
     </div>
 </div>
-<hr>
+
+---
 
 <div class="grid _start">
     <div class="cell">
