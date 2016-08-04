@@ -3,6 +3,7 @@ layout: post
 title:  Economize até 60% fazendo a limpeza de ar condicionado no inverno
 excerpt: A compra de um condicionador de ar não depende do calor ou frio que a pessoa sente. A capacidade de refrigeração de um condicionador de ar está diretamente relacionada ao tamanho do ambiente, quantidade de pessoas e número de aparelhos elétricos no local.
 categories: blog limpeza economia
+cover: https://c1.staticflickr.com/9/8748/28482665650_fd524ea179_b.jpg
 ---
 
 **O inverno é a melhor época para solicitar a limpeza de equipamentos de ar condicionado, devido à diminuição de seu uso.**
