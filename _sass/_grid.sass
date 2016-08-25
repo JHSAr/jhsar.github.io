@@ -39,11 +39,12 @@
         align-content: center
 
     +media-query($on-palm) 
-        &:not(._nowrap) 
+        &:not(._row) 
             flex-direction: column
             width: 100%
 
             .cell
+                flex-basis: auto
                 &:not(._nospace)
                     &:not(:last-child) 
                         margin-bottom: $spacing-unit / 2
@@ -66,7 +67,8 @@
         &._1of5 
             flex: 1 1 20%
         &._shrink 
-            flex: 0 1 auto
+            flex-grow: 0
+            flex-shrink: 1
 
         &:not(._nospace) 
             &:not(:first-child) 
