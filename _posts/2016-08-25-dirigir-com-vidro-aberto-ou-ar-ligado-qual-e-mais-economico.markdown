@@ -23,7 +23,7 @@ Para cada novo modelo de automóvel, uma nova aerodinâmica é criada. Os carros
     <div class="cell">
         <div class="cell _shrink" style="font-weight:bold;line-height:55px;font-size:50px;">Sedã</div>
         <strong>baixo Cx</strong>
-        <p><span class="left" style="line-height:55px;font-size:50px;">20%</span> a mais com os vidros aberto</p>
+        <p><span class="left" style="line-height:55px;font-size:50px;">20%</span> a mais com os vidros abertos</p>
     </div>
     <div class="cell _shrink">
         <img src="https://c1.staticflickr.com/9/8498/28603827713_1547d214b7_n.jpg" alt="SUV">
@@ -31,7 +31,7 @@ Para cada novo modelo de automóvel, uma nova aerodinâmica é criada. Os carros
     <div class="cell">
         <div class="cell _shrink" style="font-weight:bold;line-height:55px;font-size:50px;">SUV</div>
         <strong>alto Cx</strong>
-        <p><span class="left" style="line-height:55px;font-size:50px;">8%</span> a mais com os vidros aberto</p>
+        <p><span class="left" style="line-height:55px;font-size:50px;">8%</span> a mais com os vidros abertos</p>
     </div>
 </div>
 

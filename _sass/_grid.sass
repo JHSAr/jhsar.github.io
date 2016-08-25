@@ -38,21 +38,6 @@
         align-items: center
         align-content: center
 
-    +media-query($on-palm) 
-        &:not(._row) 
-            flex-direction: column
-            width: 100%
-
-            .cell
-                flex-basis: auto
-                &:not(._nospace)
-                    &:not(:last-child) 
-                        margin-bottom: $spacing-unit / 2
-
-        &._row._wrap 
-            flex-direction: row
-            flex-wrap: wrap
-
     .cell 
         flex: 1 1 auto
         min-width: 0%
@@ -83,3 +68,19 @@
 
         &._fill 
             flex: 1 1 auto
+
+    +media-query($on-palm) 
+        &:not(._row) 
+            flex-direction: column
+            width: 100%
+
+            .cell
+                flex-basis: auto
+                max-width: 100% // IE
+                &:not(._nospace)
+                    &:not(:last-child) 
+                        margin-bottom: $spacing-unit / 2
+
+        &._row._wrap 
+            flex-direction: row
+            flex-wrap: wrap
