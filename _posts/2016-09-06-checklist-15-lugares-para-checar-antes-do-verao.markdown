@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  15 lugares para checar antes do verão
+title:  15 lugares da sua casa para checar antes do verão
 excerpt: Está chegando a estação mais quente do ano. Será que a sua casa está pronta para receber o verão? Veja estas dicas de coisas que você precisa lembrar de verificar para evitar surpresas futuras.
 categories: blog manutencao higiene
 cover: https://c1.staticflickr.com/9/8099/29423786921_fed28495e7_b.jpg
