@@ -197,30 +197,29 @@ button
 .no-break
     display: inline-block
 
-.left
-    display: block
-    float: left
-    margin-right: $spacing-unit / 2
-    margin-bottom: $spacing-unit / 2
-
-.right
-    display: block
-    float: right
-    margin-left: $spacing-unit / 2
-    margin-bottom: $spacing-unit / 2
-
-.left, .right
-    & + *
-        overflow: hidden
-
 .center
     display: block
     margin: auto
 
-+media-query($on-laptop)
++media-greater($on-laptop)
+
+    .left
+        display: block
+        float: left
+        &:not(.nospace)
+            margin-right: $spacing-unit / 2
+            margin-bottom: $spacing-unit / 2
+
+    .right
+        display: block
+        float: right
+        &:not(.nospace)
+            margin-left: $spacing-unit / 2
+            margin-bottom: $spacing-unit / 2
+
     .left, .right
-        float: none
-        margin: auto
+        & + *
+            overflow: hidden
 
 
 .modal

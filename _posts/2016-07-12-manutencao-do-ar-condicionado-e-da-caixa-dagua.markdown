@@ -16,7 +16,7 @@ O ar-condicionado filtra e resfria o ar em ambientes fechados. Para realizar a l
 
 No caso das caixas d’água, a limpeza e a manutenção são extremamente importantes para evitar a reprodução de vermes e parasitas responsáveis por diversas doenças como, por exemplo, hepatites (A e E), leptospirose, entre outras. A limpeza e higienização das caixas d’água deve ocorrer, no mínimo, duas vezes ao ano. Para executar a limpeza, siga os passos determinados pela Agência Nacional de Vigilância Sanitária (Anvisa):
 
-<div class="inner"><img src="https://c1.staticflickr.com/9/8622/28162096502_5e1abcd2cb.jpg" alt="Instruções de limpeza da caixa d’água" class="left" width="150"></div>
+<div class="left"><img src="https://c1.staticflickr.com/9/8622/28162096502_5e1abcd2cb.jpg" alt="Instruções de limpeza da caixa d’água" width="150"></div>
 
 1. Feche o registro, retire toda a água da caixa d’água.
 1. Feche a saída de água da caixa d’água.

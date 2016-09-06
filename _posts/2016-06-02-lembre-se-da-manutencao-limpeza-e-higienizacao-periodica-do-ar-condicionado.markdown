@@ -8,7 +8,7 @@ categories: blog saude dicas limpeza
 Um período prolongado de calor pode fazer com que você se esqueça de fazer a limpeza e higienização do sistema de ar condicionado. Além de prejudicar o desempenho e durabilidade dos aparelhos, isso traz riscos à saúde.
 
 <figure class="grid">
-    <div class="cell _nospace">
+    <div class="cell">
         <img src="https://c2.staticflickr.com/8/7388/27146501680_c6113c6494_o.jpg" alt="Cultura de fungos">
     </div>
     <figcaption class="cell">Fungos e bactérias, além de ácaros, poeira, poluição e até insetos mortos, causam problemas de saúde quando inalados.</figcaption>
@@ -23,7 +23,7 @@ O ar ao nosso redor está cheio de micro-organismos causadores de doenças, que 
 Todas as impurezas contidas no ar que respiramos se acumulam no sistema de ar condicionado, que é um sistema fechado onde toda essa sujeira encontra lugar em pequenos orifícios e canaletas. Além disso, o ar-condicionado é um sistema úmido, local ideal para a proliferação desses micro-organismos. A única forma de evitar esse problema é fazer corretamente a manutenção preventiva e higienização de todo o sistema de ar condicionado.
 
 <figure class="grid">
-    <div class="cell _nospace">
+    <div class="cell">
         <img src="https://c2.staticflickr.com/8/7677/27422564365_76f7036188_c.jpg" alt="Limpeza de filtro">
     </div>
     <figcaption class="cell">O filtro, que fica na parte da frente do ar condicionado residencial pode ser lavado em casa, pelo menos uma vez por mês, em água corrente.</figcaption>
