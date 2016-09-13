@@ -84,8 +84,20 @@ a
     &:hover
         color: $vermelho-3
 
-/**
- * Blockquotes
+table
+    border-collapse: collapse
+    table-layout: fixed
+    th
+        background-color: $laranja-1
+        color: #fff
+    th, td
+        padding: 5px
+        border: 1px solid $background-color
+    tbody
+        tr
+            &:nth-child(odd)
+                background-color: $grey-color-light
+
 blockquote
     color: $grey-color
     border-left: 4px solid $grey-color-light
