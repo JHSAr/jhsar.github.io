@@ -1,6 +1,6 @@
 ---
 layout : post
-title  : 'Ar-condicionado pede discrição'
+title  : Como harmonizar o ar-condicionado com a decoração
 excerpt: 
 categories: blog decoracao ambiente
 cover: 
