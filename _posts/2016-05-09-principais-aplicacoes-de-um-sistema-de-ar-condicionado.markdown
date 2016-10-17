@@ -2,7 +2,7 @@
 layout: post
 title:  "Aplicações do sistema de ar condicionado"
 excerpt: Controlar a temperatura e transformar a sua casa e/ou empresa numa ilha de clima agradável, esquecendo se lá fora está muito quente ou muito frio é um direito seu.
-categories: blog saude qualidade-de-vida
+categories: saude qualidade-de-vida
 ---
 
 ![Ambiente agradável com sistema de ar condicionado]({{ site.cover }})

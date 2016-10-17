@@ -2,7 +2,7 @@
 layout: post
 title:  "Dica de saúde e decoração: use plantas vivas em casa"
 excerpt: Elas trazem o frescor do “ar livre” para dentro de nossas casas. O convite pra ficar em casa sem o sentimento de opressão comum à vida em uma caixa de concreto.
-categories: blog decoracao saude
+categories: decoracao saude
 cover: https://c1.staticflickr.com/9/8670/27820716304_613c17963b_b.jpg
 ---
 

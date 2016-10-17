@@ -2,7 +2,7 @@
 layout: post
 title:  Pequenas mudanças na casa aumentam a eficiência energética
 excerpt: Algumas coisas básicas de economia de energia podem ser observadas muito facilmente. Economizar energia pode ficar mais fácil se você souber quanto cada eletrodoméstico consome. Entre os itens que mais gastam, estão ar-condicionado, geladeira e chuveiro elétrico. A recomendação de especialistas é evitar que eles fiquem ligados por mais tempo que o necessário.
-categories: blog energia economia eletrodomesticos
+categories: energia economia eletrodomesticos
 cover: https://c1.staticflickr.com/9/8670/27820716304_613c17963b_b.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout : post
 title  : Como harmonizar o ar-condicionado com a decoração
 excerpt: Diferente do ventilador, a função do ar-condicionado é climatizar o ambiente, e não refrescar. Por isso, o posicionamento deve ser feito de modo que a ventilação não atinja diretamente as pessoas.
-categories: blog decoracao ambiente
+categories: decoracao ambiente
 cover: https://c2.staticflickr.com/6/5531/29860210360_14645c4d12_b.jpg
 ---
 

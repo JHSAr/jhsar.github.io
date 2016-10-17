@@ -1,9 +1,9 @@
 ---
-layout : post
-title  : Cuidados com a qualidade do ambiente de trabalho
-excerpt: A arquitetura e a decoração têm papel importante, projetando espaços que sejam capazes de criar sensações, motivações e contribuir positivamente na qualidade de vida do trabalhador. Por esse poder inspirador que o ambiente de trabalho tem, os projetos devem materializar muito bem a alma das empresas.
-categories: blog ambiente empresa produtividade
-cover: https://c1.staticflickr.com/9/8552/30003658010_89d929cdb5_b.jpg
+layout     : post
+title      : Cuidados com a qualidade do ambiente de trabalho
+excerpt    : A arquitetura e a decoração têm papel importante, projetando espaços que sejam capazes de criar sensações, motivações e contribuir positivamente na qualidade de vida do trabalhador. Por esse poder inspirador que o ambiente de trabalho tem, os projetos devem materializar muito bem a alma das empresas.
+categories : ambiente empresa produtividade
+cover      : https://c1.staticflickr.com/9/8552/30003658010_89d929cdb5_b.jpg
 ---
 
 <div class="grid _center">

@@ -1,8 +1,8 @@
 ---
 layout : post
-title  : 'Verão no Japão: você sabe o que é netchusho'
+title  : "Verão no Japão: você sabe o que é netchusho"
 excerpt: Variações no ambiente, condição física e atividades realizadas causam um desequilíbrio no organismo. A alta temperatura, umidade, raios solares, falta de ventilação e ar-condicionado em lugares fechados, impedem que o controle do calor interno libere isso através da transpiração. Idosos, crianças, obesos, pessoas com problemas psiquiátricos e de nutrição são os mais afetados.
-categories: blog saude verao
+categories: saude verao
 cover: https://c1.staticflickr.com/9/8716/29939795701_1cd05089bf_z.jpg
 ---
 
