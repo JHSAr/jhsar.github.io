@@ -15,6 +15,7 @@
       </div>
 
       <div class="cell _2of3">
+        <p><strong>Compartilhe:</strong></p>
         {% include share/widget.html position='site-footer' %}
         <p>{{ site.description }}</p>
       </div>
@@ -26,7 +27,7 @@
 
 <footer class="modal grid _center" id="contato">
   <div class="wrapper" style="width:90%;">
-    <div class="grid _end"><a class="close" href="#" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + '× no topo do form de contato');">&times;</a></div>
+    <div class="grid _end"><a class="close" href="#×" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + '× no topo do form de contato');">&times;</a></div>
     <h4>Fale conosco</h4>
     <form action="{{ site.url + site.baseurl }}/enviar_email.php" method="post" name="enviar" class="modal-form">
         <div class="grid _row">
@@ -57,7 +58,7 @@
         </div>
         <label class="honey"><small>Seres humanos não deveriam ver isso. Deixe este campo em branco.</small><input type="text" name="honeypot"></label>
         <footer class="grid _row _nowrap _center _justify">
-          <a href="#" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + 'FECHAR form de contato');">FECHAR</a>
+          <a href="#×" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + 'FECHAR form de contato');">FECHAR</a>
           <button type="submit" class="btn _big">ENVIAR</button> 
         </footer>
       </form>
