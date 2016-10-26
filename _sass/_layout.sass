@@ -1,0 +1,193 @@
+%padding
+    padding: ($spacing-unit * 2) 0
+
+/**
+ * Site header
+.site-header
+    @extend %padding
+    padding-bottom: 0
+    position: relative
+
+.site-title
+    margin-top: $spacing-unit
+
+.site-nav
+    position: absolute
+    z-index: 1
+    top: 0
+    left: 0
+    width: 100%
+    line-height: $base-line-height * 2
+    font-weight: bold
+    .page-link
+        color: $text-color
+        // Gaps between nav items, but not on the last one
+        &:not(:last-child)
+            margin-right: $spacing-unit / 2
+    .menu-icon
+        display: none
+        width: 100%
+        a
+            display: block
+            width: 48px
+            height: 48px
+    +media-query($on-palm)
+        .menu-icon
+            display: block
+        .trigger
+            clear: both
+            display: none
+            a
+                display: block
+                text-align: center
+                margin-top: 1px
+                background-color: $vermelho-2
+                color: #fff
+            .page-link
+                margin-right: 0
+                background-color: $laranja-1
+        &:hover
+            padding-bottom: $spacing-unit / 2
+            .trigger
+                width: 100%
+                display: block
+
+.hero, .message
+    padding: ($spacing-unit * 4) 0 ($spacing-unit * 2)
+    .wrapper
+        max-width: $on-laptop
+        margin: auto
+        text-align: center
+        & > *
+            margin: 30px 0
+    +media-query($on-palm)
+        .hero-title
+            font-size: 1.8em
+
+.hero
+    background:
+        image: url("../img/bg-split-env.jpg")
+        position: center
+        repeat: no-repeat
+        size: cover
+
+.gallery
+    @extend %padding
+    text-align: center
+    figure
+        margin: 0
+        +media-query($on-palm)
+            min-width: 100px
+    img
+        display: block
+        margin: auto
+
+.about
+    @extend %padding
+    .about-article
+        display: inline-block
+        vertical-align: top
+        width: 45%
+        &:nth-of-type(odd)
+            margin-right: 9%
+        +media-query($on-palm)
+            display: block
+            width: auto
+            margin: 0
+    .about-footer
+        text-align: center
+        margin: ($spacing-unit * 2) auto 0
+
+.blog
+    @extend %padding
+
+/**
+ * Site footer
+.site-footer
+    @extend %padding
+    background-color: $grey-color-light
+
+.footer-heading
+    font-size: 1.4em
+    margin-bottom: $spacing-unit
+
+.contact-list,
+.social-media-list
+    list-style: none
+    margin-left: 0
+
+/**
+ * Page content
+.page-content
+    @extend %padding
+
+.page-heading
+    font-size: 20px
+
+.post
+    @extend %padding
+
+.post-list
+    padding-left: 0
+    list-style: none
+    > li
+        margin-bottom: $spacing-unit
+
+.post-meta
+    font-size: $small-font-size
+    color: $grey-color
+
+.post-link
+    display: block
+    font-size: 24px
+
+/**
+ * Posts
+.post-header
+    margin-bottom: $spacing-unit
+
+.post-title
+    font-size: 42px
+    letter-spacing: -1px
+    line-height: 1
+    +media-query($on-laptop)
+        font-size: 36px
+
+.post-content
+    margin-bottom: $spacing-unit
+    h2
+        font-size: 32px
+        +media-query($on-laptop)
+            font-size: 28px
+    h3
+        font-size: 26px
+        +media-query($on-laptop)
+            font-size: 22px
+    h4
+        font-size: 20px
+        +media-query($on-laptop)
+            font-size: 18px
+    p, ul, ol, blockquote, .inner
+        margin-left: auto
+        margin-right: auto
+        max-width: $on-laptop
+    +media-greater($on-palm)
+        ul, ol
+            padding-left: $spacing-unit
+        blockquote
+            padding-left: $spacing-unit
+    figure
+        figcaption
+            font-style: italic
+            color: $grey-color
+    .inner, .pull
+        margin-top: $spacing-unit / 2
+        margin-bottom: $spacing-unit / 2
+        & :first-child
+            margin-top: 0
+        & :last-child
+            margin-bottom: 0
+
+#disqus_thread
+    max-width: $on-laptop
+    margin: auto

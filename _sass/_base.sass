@@ -45,7 +45,7 @@ figcaption
 /**
  * Lists
 ul, ol
-    margin-left: $spacing-unit
+    padding-left: $spacing-unit
 
 li
     > ul, > ol
@@ -101,10 +101,10 @@ table
 blockquote
     color: $grey-color
     border-left: 4px solid $grey-color-light
-    padding-left: $spacing-unit / 2
     font-size: 18px
     letter-spacing: -1px
     font-style: italic
+    padding-left: $spacing-unit / 2
 
 /**
  * Code formatting
@@ -213,22 +213,26 @@ button
     display: block
     margin: auto
 
-+media-greater($on-laptop)
+.circ-wrapper
+    position: relative
+    height: 0
+    padding: 0 0 100%
+    border-radius: 500px
+    overflow: hidden
 
++media-greater($on-laptop)
     .left
         display: block
         float: left
         &:not(.nospace)
             margin-right: $spacing-unit / 2
             margin-bottom: $spacing-unit / 2
-
     .right
         display: block
         float: right
         &:not(.nospace)
             margin-left: $spacing-unit / 2
             margin-bottom: $spacing-unit / 2
-
     .left, .right
         & + *
             overflow: hidden
