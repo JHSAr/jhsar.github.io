@@ -4,7 +4,7 @@ title: Limpeza e higienização do carro evitam doenças respiratórias
 excerpt: >
     Manter a higienização do carro em dia é fundamental não só para o seu conforto, mas é também uma questão de saúde. Além de retirar a sujeira aparente, bancos, carpetes e tapetes também devem passar por um processo de higienização.
 categories: carro limpeza saude
-cover: https://c1.staticflickr.com/9/8597/30463661482_4d142a7284_o.jpg
+cover: https://c2.staticflickr.com/8/7388/27146501680_cdb060d4fc_z.jpg
 ---
 
 ### Como você faz a limpeza do seu carro? Dá aquela lavada e retira a sujeira do interior do veículo? Será que só isso basta?
