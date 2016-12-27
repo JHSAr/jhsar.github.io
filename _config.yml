@@ -15,7 +15,7 @@ cover: "https://c2.staticflickr.com/8/7512/27284014190_3ef3fc1e7e_b.jpg"
 # Build settings
 markdown: kramdown
 
-exclude: ['*.sublime-project', '*.sublime-workspace']
+exclude: ['*.sublime-project', '*.sublime-workspace', '*.ini', 'gulpfile.js', README.md]
 
 sass:
   style: compressed

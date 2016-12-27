@@ -48,11 +48,11 @@ layout: default
 		this.page.url = '{{ site.url }}{{ page.url }}';
 		this.page.identifier = '{{ page.title }}';
 		};
-		(function() { // DON'T EDIT BELOW THIS LINE
-		var d = document, s = d.createElement('script');
-		s.src = '//jhsarcondicionado.disqus.com/embed.js';
-		s.setAttribute('data-timestamp', +new Date());
-		(d.head || d.body).appendChild(s);
+		(function() {
+			var d = document, s = d.createElement('script');
+			s.src = '//jhsarcondicionado.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
 		})();
 		</script>
 		<noscript>Por favor, habilite a execução de JavaScript para ver <a href="https://disqus.com/?ref_noscript" rel="nofollow">comentários via Disqus.</a></noscript>

@@ -1,10 +1,14 @@
 ---
 title: Economize na conta da energia elétrica nas férias
-layout: post
-source-id: 1Bo2VPZ3diY1iJDZgQMn06VpJ1xwEpCxXOmA5JMyaR8Q
-published: true
+categories: economia casa verao
+cover: 
 ---
-A casa está cheia, crianças de férias e muitos familiares para as festas. Alguns até ficam pra dormir. Estamos no verão, e não dá pra dormir sem o ar-condicionado ligado. Tudo isso contribui para o aumento no consumo de energia elétrica. Além de todas as despesas de fim de ano, você tem que se preocupar com a conta de luz. Algumas medidas simples e mudanças de hábitos ajudam a economizar dinheiro evitando desperdício de eletricidade.
+
+<div class="grid _center" style="background-image: url(https://c1.staticflickr.com/1/739/31076563344_7271b45ae1_b.jpg);background-size: cover;" class="post-hero">
+    <p>A casa está cheia, crianças de férias e muitos familiares para as festas. Alguns até ficam pra dormir. Estamos no verão, e não dá pra dormir sem o ar-condicionado ligado. Tudo isso contribui para o aumento no consumo de energia elétrica.</p>
+</div>
+
+Além de todas as despesas de fim de ano, você tem que se preocupar com a conta de luz. Algumas medidas simples e mudanças de hábitos ajudam a economizar dinheiro evitando desperdício de eletricidade.
 
 Se você recebe muitas visitas no fim do ano, seu maior problema é a hora do banho. O ideal é deixar a temperatura do chuveiro no Verão ou desligada.
 

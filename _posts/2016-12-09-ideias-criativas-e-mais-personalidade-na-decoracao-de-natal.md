@@ -3,7 +3,7 @@ title: Ideias criativas e mais personalidade na decoração de Natal
 excerpt: >
     Estamos na época do ano em que as famílias enfeitam suas casas e apartamentos colocando guirlandas, luzes, arranjos e montando a tradicional árvore de Natal. Muitas empresas e comércios apostam na decoração natalina para chamar a atenção, e a escolha do tema é decisiva no seu sucesso.
 categories: decoracao natal
-cover: 
+cover: http://projectnursery.com/wp-content/uploads/2015/12/felt-tree-3.jpg
 ---
 
 <div style="background-color:#dcdcdc;padding:1px 20px" class="post-hero">
