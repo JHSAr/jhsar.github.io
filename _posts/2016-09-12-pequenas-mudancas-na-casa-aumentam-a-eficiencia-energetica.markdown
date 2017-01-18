@@ -6,7 +6,7 @@ categories: energia economia eletrodomesticos
 cover: https://c1.staticflickr.com/9/8670/27820716304_613c17963b_b.jpg
 ---
 
-Muito mais do que equilibrar o orçamento doméstico, a redução do consumo energético é uma questão de desenvolvimento sustentável para todo o País. A tarifa de energia elétrica está cada vez mais alta. O aquecimento global preocupa o mundo. Mas a solução não está em um futuro distante.
+Muito mais do que equilibrar o orçamento doméstico, a redução do consumo energético é uma questão de desenvolvimento sustentável para todo o País. A [tarifa de energia elétrica]({% post_url 2016-12-27-economize-na-conta-da-energia-eletrica-nas-ferias %}) está cada vez mais alta. O aquecimento global preocupa o mundo. Mas a solução não está em um futuro distante.
 
 <figure class="grid pull">
   <div class="cell">
@@ -17,7 +17,7 @@ Muito mais do que equilibrar o orçamento doméstico, a redução do consumo ene
   </figcaption>
 </figure>
 
-Algumas coisas básicas de economia de energia podem ser observadas muito facilmente. Iluminação, por exemplo, é uma coisa que as pessoas não se preocupam, mas quando ela está associada com o uso de ar-condicionado aumenta muito o consumo de energia.
+Algumas coisas básicas de economia de energia podem ser observadas muito facilmente. Iluminação, por exemplo, é uma coisa que as pessoas não se preocupam, mas quando ela está associada com o [uso de ar-condicionado]({% post_url 2016-10-17-dicas-de-utilizacao-e-economia-de-energia %}) aumenta muito o consumo de energia.
 
 Lâmpadas LED que, embora mais caras, duram muito mais, e ar-condicionados com tecnologia inverter, que consome 40% menos energia, são uma boa solução.
 
@@ -34,7 +34,7 @@ Nas janelas, o uso de cortina do tipo *blackout*, permite com certa mobilidade a
 
 ## Os eletrodomésticos que mais consomem energia
 
-Economizar energia pode ficar mais fácil se você souber quanto cada eletrodoméstico consome. Entre os itens que mais gastam, estão ar-condicionado, geladeira e chuveiro elétrico. A recomendação de especialistas é evitar que eles fiquem ligados por mais tempo que o necessário. No caso do **ar-condicionado**, é importante **limpá-lo com frequência**. 
+Economizar energia pode ficar mais fácil se você souber quanto cada eletrodoméstico consome. Entre os itens que mais gastam, estão ar-condicionado, geladeira e chuveiro elétrico. A recomendação de especialistas é evitar que eles fiquem ligados por mais tempo que o necessário. [No caso do **ar-condicionado**, é importante **limpá-lo com frequência**]({% post_url 2016-06-02-lembre-se-da-manutencao-limpeza-e-higienizacao-periodica-do-ar-condicionado %}). 
 
 Geladeiras mal conservadas podem consumir mais energia, chegando a representar 30% do consumo de uma residência. 
 

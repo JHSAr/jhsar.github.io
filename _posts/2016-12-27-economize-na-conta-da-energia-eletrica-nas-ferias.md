@@ -6,7 +6,7 @@ cover: https://c1.staticflickr.com/1/587/31107520173_ca70dcfb1f_b.jpg
 
 <div class="grid _center">
     <div class="cell">
-        <p>A casa está cheia, crianças de férias e muitos familiares para as festas. Alguns até ficam pra dormir. Estamos no verão, e não dá pra dormir sem o ar-condicionado ligado. Tudo isso contribui para o aumento no consumo de energia elétrica. Além de todas as despesas de fim de ano, você tem que se preocupar com a conta de luz. Algumas medidas simples e mudanças de hábitos ajudam a economizar dinheiro evitando desperdício de eletricidade.</p>
+        <p>A casa está cheia, crianças de férias e muitos familiares para as festas. Alguns até ficam pra dormir. Estamos no verão, e não dá pra dormir sem o ar-condicionado ligado. Tudo isso contribui para o aumento no consumo de energia elétrica. Além de todas as despesas de fim de ano, você tem que se preocupar com a conta de luz. <a href="{% post_url 2016-09-12-pequenas-mudancas-na-casa-aumentam-a-eficiencia-energetica %}">Algumas medidas simples e mudanças de hábitos ajudam a economizar dinheiro evitando desperdício de eletricidade</a>.</p>
     </div>
     <div class="cell"><img src="https://c1.staticflickr.com/1/739/31076563344_7271b45ae1_z.jpg" alt="Férias de verão"></div>
 </div>
@@ -49,7 +49,8 @@ Sabe aquela luz vermelha nos aparelhos, que fica acesa o tempo todo? A função 
 <div class="grid _center">
     <div class="cell"><img src="https://c2.staticflickr.com/8/7643/27322791133_223bbe8c41_o.jpg" alt="ar-condicionado"></div>
     <div class="cell">
-        <p>Ar-condicionados, climatizadores e ventiladores tendem a ficar mais tempo ligados durante as férias. Neste caso, é preciso ter atenção com a limpeza dos filtros e a temperatura. Quanto mais baixa a temperatura, mais tempo o compressor trabalha. Na hora de dormir, por exemplo, 23º ou 24º são ideais e permitem que o aparelho desligue sozinho durante a noite. Outra opção é programar para desligar definitivamente durante a madrugada, que é mais fria. Além disso, nos dias de chuva o uso do ar-condicionado pode ser evitado.</p>
+        <p>Ar-condicionados, climatizadores e ventiladores tendem a ficar mais tempo ligados durante as férias. Neste caso, é preciso ter <a href="{% post_url 2016-06-02-lembre-se-da-manutencao-limpeza-e-higienizacao-periodica-do-ar-condicionado %}">atenção com a limpeza dos filtros e a temperatura</a>. Quanto mais baixa a temperatura, mais tempo o compressor trabalha. Na hora de dormir, por exemplo, 23º ou 24º são ideais e permitem que o aparelho desligue sozinho durante a noite. Outra opção é programar para desligar definitivamente durante a madrugada, que é mais fria. Além disso, nos dias de chuva o uso do ar-condicionado pode ser evitado.</p>
+        <p>Veja mais <a href="{% post_url 2016-10-17-dicas-de-utilizacao-e-economia-de-energia %}">dicas de uso do ar-condicionado e economia de energia</a>.</p>
     </div>
 </div>
 

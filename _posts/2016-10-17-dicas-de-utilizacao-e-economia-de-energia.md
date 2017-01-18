@@ -8,9 +8,11 @@ cover      : https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg
 
 <div class="pull"><img src="https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg" alt="sala com ar-condicionado"></div>
 
-Usado em épocas de calor ou mesmo no frio (com a função de aquecimento), o ar-condicionado pode ser encontrado com diversas capacidades e tecnologias, sendo um dos aparelhos mais utilizados nas residências e empresas. [Seu uso traz benefícios para a produtividade e a saúde]({% post_url 2016-06-09-beneficios-do-ar-condicionado-para-produtividade-e-saude %}). Toda essa importância vem com o desafio de evitar o consumo desnecessário de energia elétrica e aproveitar ao máximo os benefícios que o ar-condicionado proporciona ao seu dia a dia, sem que isso vá de encontro ao orçamento mensal.
+Usado em épocas de calor ou mesmo no frio (com a função de aquecimento), o ar-condicionado pode ser encontrado com diversas capacidades e tecnologias, sendo um dos aparelhos mais utilizados nas residências e empresas. [Seu uso traz benefícios para a produtividade e a saúde]({% post_url 2016-06-09-beneficios-do-ar-condicionado-para-produtividade-e-saude %}). Toda essa importância vem com o desafio de evitar o consumo desnecessário de energia elétrica e aproveitar ao máximo os [benefícios que o ar-condicionado proporciona ao seu dia a dia]({% post_url 2016-05-09-principais-aplicacoes-de-um-sistema-de-ar-condicionado %}), sem que isso vá de encontro ao orçamento mensal.
 
-Porém, muitas pessoas cometem erros quando tentam economizar na conta de energia elétrica. De acordo com o Agência de Recursos Naturais e Energia, cerca de 58% de nossas despesas com energia elétrica no verão provêm do uso de ar-condicionado. Entretanto, é possível diminuir as despesas utilizando o ar-condicionado de forma mais eficiente.
+Aprenda a [melhorar a eficiência energética da sua casa com pequenas mudanças de hábito]({% post_url 2016-09-12-pequenas-mudancas-na-casa-aumentam-a-eficiencia-energetica %}).
+
+Porém, muitas pessoas cometem erros quando tentam [economizar na conta de energia elétrica]({% post_url 2016-12-27-economize-na-conta-da-energia-eletrica-nas-ferias %}). De acordo com o Agência de Recursos Naturais e Energia, cerca de 58% de nossas despesas com energia elétrica no verão provêm do uso de ar-condicionado. Entretanto, é possível diminuir as despesas utilizando o ar-condicionado de forma mais eficiente.
 
 Veja as dicas a seguir:
 
