@@ -2,11 +2,12 @@ title: JHS Ar-condicionado
 telefones: (15) 3213-9347 / 9 9604-1334
 endereco: Rua Pedro Sola Verdun, 896
 bairro: Jardim J. S. Carvalho
-cidade: Sorocaba – SP﻿
+cidade: Sorocaba – SP
 description: > # this means to ignore newlines until "baseurl:"
-  Mais de 10 anos de experiência no ramo de venda, instalação e manutenção em aparelhos
-  de ar condicionado. Atendimento rápido e eficiente para empresas, estabelecimentos
-  comerciais e residências, valorizando o relacionamento com os clientes com
+  Mais de 10 anos de experiência no ramo de venda, instalação e
+  manutenção em aparelhos de ar condicionado. Atendimento rápido
+  e eficiente para empresas, estabelecimentos comerciais e
+  residências, valorizando o relacionamento com os clientes com
   responsabilidade e transparência.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jhsar.com.br" # the base hostname & protocol for your site
@@ -15,7 +16,10 @@ cover: "https://c2.staticflickr.com/8/7512/27284014190_3ef3fc1e7e_b.jpg"
 # Build settings
 markdown: kramdown
 
-exclude: ['*.sublime-project', '*.sublime-workspace', '*.ini', 'gulpfile.js', README.md]
+exclude:
+  - desktop.ini
+  - gulpfile.js
+  - README.md
 
 sass:
   style: compressed
