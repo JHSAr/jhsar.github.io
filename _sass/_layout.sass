@@ -1,8 +1,6 @@
 %padding
     padding: ($spacing-unit * 2) 0
 
-/**
- * Site header
 .site-header
     @extend %padding
     padding-bottom: 0
@@ -21,7 +19,6 @@
     font-weight: bold
     .page-link
         color: $text-color
-        // Gaps between nav items, but not on the last one
         &:not(:last-child)
             margin-right: $spacing-unit / 2
     .menu-icon
@@ -116,8 +113,6 @@
     list-style: none
     margin-left: 0
 
-/**
- * Page content
 .page-content
     @extend %padding
 
@@ -141,8 +136,6 @@
     display: block
     font-size: 24px
 
-/**
- * Posts
 .post-header
     margin-bottom: $spacing-unit
 
@@ -210,9 +203,18 @@
     border-bottom: 1px solid $grey-color-light
 
 .section-cta
-    > *
-        padding: $spacing-unit 0
-        background-color: $grey-color-light
+    padding: $spacing-unit 0
+    background:
+        color: $grey-color-light
+        image: url('/img/bg-split-env.jpg')
+        position: 0% 40%
+        repeat: no-repeat
+        size: cover
+    .cta-headline
+        font:
+            size: 22px
+            weight: 600
+        text-shadow: -1px 2px 0px #fff
 
 #disqus_thread
     max-width: $on-laptop
