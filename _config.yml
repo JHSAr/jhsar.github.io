@@ -24,6 +24,10 @@ exclude:
 sass:
   style: compressed
 
+collections:
+  clientes:
+    output: false
+
 defaults:
   -
     scope:
