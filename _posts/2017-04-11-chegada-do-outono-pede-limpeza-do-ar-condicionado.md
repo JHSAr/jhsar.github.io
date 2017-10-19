@@ -1,8 +1,16 @@
 ---
-title: "A chegada do outono pede a limpeza (ou a manutenção) do ar-condicionado"
-excerpt: >
-    A estação mais quente do ano está terminando, e a frequência de uso do aparelho de ar condicionado tende a diminuir (será?). A limpeza e a manutenção do seu ar-condicionado, neste momento, além de garantir economia de energia, serve para evitar problemas de saúde futuros.
-categories: saude limpeza manutencao
+title: A chegada do outono pede a limpeza (ou a manutenção) do ar-condicionado
+date: 2017-04-11 00:00:00 Z
+categories:
+- saude
+- limpeza
+- manutencao
+excerpt: 'A estação mais quente do ano está terminando, e a frequência de uso do aparelho
+  de ar condicionado tende a diminuir (será?). A limpeza e a manutenção do seu ar-condicionado,
+  neste momento, além de garantir economia de energia, serve para evitar problemas
+  de saúde futuros.
+
+'
 cover: 
 ---
 

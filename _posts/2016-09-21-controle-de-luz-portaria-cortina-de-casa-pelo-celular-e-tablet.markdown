@@ -1,8 +1,16 @@
 ---
-layout : post
-title  : Controle de luz, portaria, ar condicionado e até cortinas de casa podem ser feitos pelo seu celular ou tablet
-excerpt: Além da praticidade, a ideia também é economizar, já que com os dispositivos o dono da casa consegue controlar o consumo de energia elétrica, por otimizar o uso de luz, ar-condicionado, cortinas e até fechaduras eletrônicas nos ambientes da casa, que podem ser programados de acordo com fatores como o tempo de permanência no ambiente, clima, tipo de evento, entre outros.
-categories: tecnologia casa
+title: Controle de luz, portaria, ar condicionado e até cortinas de casa podem ser
+  feitos pelo seu celular ou tablet
+date: 2016-09-21 00:00:00 Z
+categories:
+- tecnologia
+- casa
+layout: post
+excerpt: Além da praticidade, a ideia também é economizar, já que com os dispositivos
+  o dono da casa consegue controlar o consumo de energia elétrica, por otimizar o
+  uso de luz, ar-condicionado, cortinas e até fechaduras eletrônicas nos ambientes
+  da casa, que podem ser programados de acordo com fatores como o tempo de permanência
+  no ambiente, clima, tipo de evento, entre outros.
 cover: http://msalx.casa.abril.com.br/2016/09/16/2140/02-home-theater-aline-luccini-casa-cor-mato-grosso-2016-quando-a-festa-acontece-em-casa.jpeg
 ---
 

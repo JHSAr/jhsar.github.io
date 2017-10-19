@@ -1,5 +1,6 @@
 ---
 title: Outono e Inverno são as melhores épocas para comprar ar-condicionado
+date: 2017-05-10 00:00:00 Z
 ---
 
 Inverno combina com ar-condicionado. Não entendeu? É que na temporada de frio – e até podemos incluir parte do outono -, adquirir estes dispositivos fica mais barato. É a famosa lei do mercado, determinada pela oferta e a procura. Para manter as vendas ativas, a indústria reduz a margem de lucro e oferece vantagens para as lojas varejistas que, por sua vez, aplicam descontos até chegar ao consumidor final.

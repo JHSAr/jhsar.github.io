@@ -1,9 +1,16 @@
 ---
-layout     : post
-title      : Dicas de utilização de ar-condicionado e economia de energia
-excerpt    : Muitas pessoas cometem erros quando tentam economizar na conta de energia elétrica. De acordo com o Agência de Recursos Naturais e Energia, cerca de 58% de nossas despesas com energia elétrica no verão provêm do uso de ar-condicionado. Entretanto, é possível diminuir as despesas utilizando o ar-condicionado de forma mais eficiente.
-categories : economia manutencao
-cover      : https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg
+title: Dicas de utilização de ar-condicionado e economia de energia
+date: 2016-10-17 00:00:00 Z
+categories:
+- economia
+- manutencao
+layout: post
+excerpt: Muitas pessoas cometem erros quando tentam economizar na conta de energia
+  elétrica. De acordo com o Agência de Recursos Naturais e Energia, cerca de 58% de
+  nossas despesas com energia elétrica no verão provêm do uso de ar-condicionado.
+  Entretanto, é possível diminuir as despesas utilizando o ar-condicionado de forma
+  mais eficiente.
+cover: https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg
 ---
 
 <div class="pull"><img src="https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg" alt="sala com ar-condicionado"></div>

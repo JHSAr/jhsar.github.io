@@ -1,8 +1,9 @@
 ---
 title: Mitos e verdades sobre o ar-condicionado do carro
-excerpt: >
-    ...
-categories: carro
+date: 2016-11-07 00:00:00 Z
+categories:
+- carro
+excerpt: "...\n"
 cover: http://flickr.com
 ---
 

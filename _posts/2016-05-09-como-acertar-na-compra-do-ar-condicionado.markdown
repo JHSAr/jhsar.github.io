@@ -1,8 +1,14 @@
 ---
+title: Como acertar na compra do seu equipamento de ar condicionado
+date: 2016-05-09 00:00:00 Z
+categories:
+- compra
+- cuidados
 layout: post
-title:  "Como acertar na compra do seu equipamento de ar condicionado"
-excerpt: A compra de um condicionador de ar não depende do calor ou frio que a pessoa sente. A capacidade de refrigeração de um condicionador de ar está diretamente relacionada ao tamanho do ambiente, quantidade de pessoas e número de aparelhos elétricos no local.
-categories: compra cuidados
+excerpt: A compra de um condicionador de ar não depende do calor ou frio que a pessoa
+  sente. A capacidade de refrigeração de um condicionador de ar está diretamente relacionada
+  ao tamanho do ambiente, quantidade de pessoas e número de aparelhos elétricos no
+  local.
 ---
 
 <div class="grid _center">

@@ -1,8 +1,14 @@
 ---
 title: 3 itens indispensáveis para a decoração de Natal e 7 outras ideias
-excerpt: >
-    Falta só um mês para o Natal. Lojas exibem seus itens de decoração. Luzes começam a cobrir a paisagem noturna. É possível encontrar até monumentos mais coloridos, e árvores ao longo da calçada ostentando o espírito da época.
-categories: decoracao natal
+date: 2016-11-16 00:00:00 Z
+categories:
+- decoracao
+- natal
+excerpt: 'Falta só um mês para o Natal. Lojas exibem seus itens de decoração. Luzes
+  começam a cobrir a paisagem noturna. É possível encontrar até monumentos mais coloridos,
+  e árvores ao longo da calçada ostentando o espírito da época.
+
+'
 cover: https://c2.staticflickr.com/6/5624/30272016613_f721a0ae20_b.jpg
 ---
 

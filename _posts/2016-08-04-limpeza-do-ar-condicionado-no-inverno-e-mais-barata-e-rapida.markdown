@@ -1,8 +1,14 @@
 ---
+title: Economize até 60% fazendo a limpeza de ar condicionado no inverno
+date: 2016-08-04 00:00:00 Z
+categories:
+- limpeza
+- economia
 layout: post
-title:  Economize até 60% fazendo a limpeza de ar condicionado no inverno
-excerpt: A compra de um condicionador de ar não depende do calor ou frio que a pessoa sente. A capacidade de refrigeração de um condicionador de ar está diretamente relacionada ao tamanho do ambiente, quantidade de pessoas e número de aparelhos elétricos no local.
-categories: limpeza economia
+excerpt: A compra de um condicionador de ar não depende do calor ou frio que a pessoa
+  sente. A capacidade de refrigeração de um condicionador de ar está diretamente relacionada
+  ao tamanho do ambiente, quantidade de pessoas e número de aparelhos elétricos no
+  local.
 cover: https://c1.staticflickr.com/9/8748/28482665650_fd524ea179_b.jpg
 ---
 

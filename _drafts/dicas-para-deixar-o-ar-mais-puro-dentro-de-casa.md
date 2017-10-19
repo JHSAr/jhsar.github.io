@@ -1,5 +1,6 @@
 ---
-title: "8 dicas para deixar o ar interno mais limpo"
+title: 8 dicas para deixar o ar interno mais limpo
+date: 2017-05-19 00:00:00 Z
 ---
 
 Pois é, o ar dentro de casa também pode ficar sujo e causar doenças à nossa família.

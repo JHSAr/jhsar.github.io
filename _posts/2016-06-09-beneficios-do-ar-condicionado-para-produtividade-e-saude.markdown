@@ -1,8 +1,13 @@
 ---
+title: Os benefícios do ar-condicionado para sua produtividade e sua saúde
+date: 2016-06-09 00:00:00 Z
+categories:
+- saude
+- qualidade-de-vida
 layout: post
-title:  "Os benefícios do ar-condicionado para sua produtividade e sua saúde"
-excerpt: Os aparelhos modernos possuem muitas funções que vão além do simples controle de temperatura, proporcionando não só a sensação de bem estar, mas também a manutenção da qualidade do ar e melhor condição de saúde no médio e no longo prazo.
-categories: saude qualidade-de-vida
+excerpt: Os aparelhos modernos possuem muitas funções que vão além do simples controle
+  de temperatura, proporcionando não só a sensação de bem estar, mas também a manutenção
+  da qualidade do ar e melhor condição de saúde no médio e no longo prazo.
 cover: https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg
 ---
 

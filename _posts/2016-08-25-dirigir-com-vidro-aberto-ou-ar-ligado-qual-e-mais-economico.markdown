@@ -1,8 +1,14 @@
 ---
+title: Dirigir com o vidro aberto é mais econômico do que ligar o ar-condicionado?
+date: 2016-08-25 00:00:00 Z
+categories:
+- economia
+- carro
 layout: post
-title:  "Dirigir com o vidro aberto é mais econômico do que ligar o ar-condicionado?"
-excerpt: Para cada novo modelo de automóvel, uma nova aerodinâmica é criada. Os carros mais baixos, onde o coeficiente de atrito (Cx) é menor, consomem mais combustível com os vidros abertos. No caso dos carros mais altos, o consumo excessivo por estar com os vidros abertos é um pouco menor.
-categories: economia carro
+excerpt: Para cada novo modelo de automóvel, uma nova aerodinâmica é criada. Os carros
+  mais baixos, onde o coeficiente de atrito (Cx) é menor, consomem mais combustível
+  com os vidros abertos. No caso dos carros mais altos, o consumo excessivo por estar
+  com os vidros abertos é um pouco menor.
 cover: https://c1.staticflickr.com/9/8226/29146170481_52ebd60088_o.jpg
 ---
 

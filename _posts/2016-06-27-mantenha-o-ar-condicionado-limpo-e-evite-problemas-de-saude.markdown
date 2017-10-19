@@ -1,9 +1,15 @@
 ---
-layout     : post
-title      : "Como manter o ar-condicionado limpo e higienizado, e outras dicas de saúde"
-excerpt    : A higienização torna o ambiente climatizado mais saudável, reduz o custo de energia, prolonga a vida útil do equipamento e evita a queima de compressores e motores, que têm alto custo para conserto.
-categories : saude limpeza higienizacao
-cover      : https://c2.staticflickr.com/8/7643/27322791133_223bbe8c41_o.jpg
+title: Como manter o ar-condicionado limpo e higienizado, e outras dicas de saúde
+date: 2016-06-27 00:00:00 Z
+categories:
+- saude
+- limpeza
+- higienizacao
+layout: post
+excerpt: A higienização torna o ambiente climatizado mais saudável, reduz o custo
+  de energia, prolonga a vida útil do equipamento e evita a queima de compressores
+  e motores, que têm alto custo para conserto.
+cover: https://c2.staticflickr.com/8/7643/27322791133_223bbe8c41_o.jpg
 ---
 
 <div class="grid pull">

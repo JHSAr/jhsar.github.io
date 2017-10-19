@@ -1,8 +1,12 @@
 ---
+title: Manutenção do ar-condicionado e da caixa d'água
+date: 2016-07-12 00:00:00 Z
+categories:
+- limpeza
 layout: post
-title:  "Manutenção do ar-condicionado e da caixa d'água"
-excerpt: A JHS oferece um serviço profissional de manutenção de ar-condicionados. Não fazemos limpeza de caixa  d’água. Por isso resolvemos dar algumas dicas de como você deve fazer a limpeza da sua caixa d’água.
-categories: limpeza
+excerpt: A JHS oferece um serviço profissional de manutenção de ar-condicionados.
+  Não fazemos limpeza de caixa  d’água. Por isso resolvemos dar algumas dicas de como
+  você deve fazer a limpeza da sua caixa d’água.
 cover: https://c2.staticflickr.com/8/7345/28231745376_3f813a8734_c.jpg
 ---
 

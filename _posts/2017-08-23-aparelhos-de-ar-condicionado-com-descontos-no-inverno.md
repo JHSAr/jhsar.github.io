@@ -1,8 +1,16 @@
 ---
-title: Aparelhos de ar-condicionado apresentam preços com descontos de até 33% no inverno
-excerpt: >
-    Temos a tendência de deixarmos para resolver as coisas no momento em que surge um incômodo que não pode ser ignorado. E essa tendência igualmente faz com que o inverno traga a oportunidade de economizar no período de menor demanda, no inverno.
-categories: limpeza economia
+title: Aparelhos de ar-condicionado apresentam preços com descontos de até 33% no
+  inverno
+date: 2017-08-23 00:00:00 Z
+categories:
+- limpeza
+- economia
+excerpt: 'Temos a tendência de deixarmos para resolver as coisas no momento em que
+  surge um incômodo que não pode ser ignorado. E essa tendência igualmente faz com
+  que o inverno traga a oportunidade de economizar no período de menor demanda, no
+  inverno.
+
+'
 cover: https://c1.staticflickr.com/5/4336/35920789764_bf23211c04_o.jpg
 ---
 

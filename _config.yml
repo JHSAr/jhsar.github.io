@@ -1,38 +1,40 @@
+---
 title: JHS Ar-condicionado
-telefones: (15) 3213-9347 / 9 9604-1334
+timezone: UTC
+collections:
+  clientes:
+    title: Clientes
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/blog/:categories/:year/:month/:day/:title.html"
+telefones: "(15) 3213-9347 / 9 9604-1334"
 endereco: Rua Pedro Sola Verdun, 896
 bairro: Jardim J. S. Carvalho
 cidade: Sorocaba – SP
-description: > # this means to ignore newlines until "baseurl:"
-  Mais de 10 anos de experiência no ramo de venda, instalação e
-  manutenção em aparelhos de ar condicionado. Atendimento rápido
-  e eficiente para empresas, estabelecimentos comerciais e
-  residências, valorizando o relacionamento com os clientes com
-  responsabilidade e transparência.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jhsar.com.br" # the base hostname & protocol for your site
-cover: "https://c2.staticflickr.com/8/7512/27284014190_3ef3fc1e7e_b.jpg"
+description: 'Mais de 10 anos de experiência no ramo de venda, instalação e manutenção
+  em aparelhos de ar condicionado. Atendimento rápido e eficiente para empresas, estabelecimentos
+  comerciais e residências, valorizando o relacionamento com os clientes com responsabilidade
+  e transparência.
 
-# Build settings
+'
+baseurl: ''
+url: http://jhsar.com.br
+cover: https://c2.staticflickr.com/8/7512/27284014190_3ef3fc1e7e_b.jpg
 markdown: kramdown
-
 exclude:
-  - desktop.ini
-  - gulpfile.js
-  - README.md
-
+- desktop.ini
+- gulpfile.js
+- README.md
 sass:
   style: compressed
-
-collections:
-  clientes:
-    output: false
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      permalink: /blog/:categories/:year/:month/:day/:title.html

@@ -1,5 +1,6 @@
 ---
 title: 5 DICAS PARA ECONOMIZAR ENERGIA ELÉTRICA COM O AR-CONDICIONADO
+date: 2017-05-05 00:00:00 Z
 ---
 
 Para fugir das altas temperaturas, o ar-condicionado é o melhor remédio. Mas a sua conta de luz pode estar sofrendo com essa solução. Confira dicas para economizar sem abrir mão do conforto de uma casa geladinha.

@@ -1,6 +1,10 @@
 ---
 title: Economize na conta da energia elétrica nas férias
-categories: economia casa verao
+date: 2016-12-27 00:00:00 Z
+categories:
+- economia
+- casa
+- verao
 cover: https://c1.staticflickr.com/1/587/31107520173_ca70dcfb1f_b.jpg
 ---
 
