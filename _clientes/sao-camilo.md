@@ -1,4 +1,4 @@
 ---
-title: Rede de hospitais São Camilo (Salto-Itu e Itapetininga)
+title: Rede de hospitais São Camilo (Salto e Itu)
 ---
 
