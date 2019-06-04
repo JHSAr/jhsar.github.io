@@ -1,4 +1,4 @@
 ---
-title: Rede de hospitais São Camilo (Salto e Itu)
+title: Hospital São Camilo de Salto
 ---
 
