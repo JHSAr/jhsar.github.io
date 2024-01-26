@@ -89,6 +89,7 @@ button,
   padding: 0.5em 2.5em;
   text-decoration: none;
   text-transform: uppercase;
+  text-align: center;
   font-weight: bold;
   border: 0 none;
   background-color: var(--orange-1);
