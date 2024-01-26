@@ -7,25 +7,47 @@ blog_class %}{% if path == 'blog' %}page-link active{% else %}page-link{% endif
       {% include svg/logo-jhs.svg %}
     </a>
 
-    <nav class="site-nav">
-      <div id="menu">
-        <div class="menu-icon">
-          <a href="#menu">
-            <img src="{{ site.baseurl }}/img/menu-icon.svg" alt="Menu" />
-          </a>
-        </div>
-        <div class="menu-content">
-          <a class="page-link" href="{{ site.baseurl }}/">Início</a>
-          <a class="{{blog_class}}" href="/blog/">Blog</a>
-          <a
-            class="page-link"
-            href="https://www.instagram.com/jhs.ar"
-            target="_blank"
-            >Instagram</a
-          >
-          <a class="page-link page-link--cta" href="#contato">Orçamento</a>
-        </div>
+    <nav class="site-nav" id="menu">
+      <a href="#menu" class="menu-icon">
+        <img src="{{ site.baseurl }}/img/menu-icon.svg" alt="Menu" />
+        <small>Menu</small>
+      </a>
+
+      <div class="menu-content">
+        <a class="page-link" href="{{ site.baseurl }}/">Início</a>
+        <a class="{{blog_class}}" href="/blog/">Blog</a>
+        <a
+          class="page-link"
+          href="https://www.instagram.com/jhs.ar"
+          target="_blank"
+          >Instagram</a
+        >
+        <a class="page-link page-link--cta" href="#contato">Orçamento</a>
       </div>
     </nav>
   </div>
 </header>
+
+<script>
+  {
+    const menuButton = document.querySelector('.menu-icon');
+    const menuContent = document.querySelector('.menu-content');
+
+    menuButton.addEventListener('click', (e) => {
+      e.preventDefault();
+      menuContent.classList.toggle('open');
+    });
+
+    menuContent.addEventListener('click', (e) => {
+      if (e.target.tagName === 'A') {
+        menuContent.classList.remove('open');
+      }
+    });
+
+    document.body.addEventListener('click', (e) => {
+      if (!menuContent.contains(e.target) && !menuButton.contains(e.target)) {
+        menuContent.classList.remove('open');
+      }
+    });
+  }
+</script>
