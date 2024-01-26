@@ -131,6 +131,12 @@
   display: flex;
   gap: var(--spacing-s);
 
+  .site-footer__nav-logo svg {
+    display: block;
+    width: auto;
+    height: 2.5rem;
+  }
+
   a svg {
     width: 2.5rem;
     height: 2.5rem;
