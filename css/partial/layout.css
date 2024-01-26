@@ -28,7 +28,7 @@
   &:focus {
     outline: 0;
     background-color: rgba(126, 126, 126, .4);
-    box-shadow: 0 0 0 var(--spacing-s) rgba(126, 126, 126, .4);
+    box-shadow: 0 0 0 var(--spacing-sm) rgba(126, 126, 126, .4);
   }
 
   svg {
@@ -98,8 +98,8 @@
 }
 
 .site-footer {
-  padding-top: var(--spacing-l);
-  padding-bottom: var(--spacing-l);
+  padding-top: var(--spacing-xl);
+  padding-bottom: var(--spacing-xl);
   background-color: var(--grey-1000);
   color: var(--grey-400);
 }
@@ -129,7 +129,7 @@
 .site-footer__nav {
   padding-left: 1.75em;
   display: flex;
-  gap: var(--spacing-s);
+  gap: var(--spacing-sm);
 
   .site-footer__nav-logo svg {
     display: block;
@@ -144,16 +144,5 @@
     >* {
       fill: var(--grey-600);
     }
-  }
-}
-
-.site-footer__cta {
-  .btn {
-    display: inline-block;
-    margin-top: var(--spacing);
-    margin-bottom: var(--spacing);
-    text-transform: uppercase;
-    font-size: 1.4rem;
-    font-weight: bold;
   }
 }

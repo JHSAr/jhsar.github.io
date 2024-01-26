@@ -22,16 +22,20 @@
         <span class="site-footer__nav-logo">
           {% include svg/hamburguer-JHS.svg %}
         </span>
-        <a href="/">{% include svg/home.svg %}</a>
-        <a href="/blog/">{% include svg/blog.svg %}</a>
-        <a href="https://www.instagram.com/jhs.ar" target="_blank">
+        <a href="/" aria-label="Página inicial">{% include svg/home.svg %}</a>
+        <a href="/blog/" aria-label="Blog">{% include svg/blog.svg %}</a>
+        <a
+          href="https://www.instagram.com/jhs.ar"
+          target="_blank"
+          aria-label="Instagram"
+        >
           {% include svg/instagram.svg %}
         </a>
       </nav>
     </div>
 
     <div class="site-footer__cta">
-      <a href="#contato" class="btn">Solicite Uma Visita Técnica</a>
+      <a href="#contato" class="btn btn-lg my-3">Solicite Uma Visita Técnica</a>
     </div>
   </div>
 </footer>
