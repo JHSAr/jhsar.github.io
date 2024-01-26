@@ -1,0 +1,69 @@
+.horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.vertical {
+  display: flex;
+  flex-direction: column;
+}
+
+.center,
+.align-center {
+  align-items: center;
+}
+
+.center,
+.justify-center {
+  justify-content: center;
+}
+
+.flex {
+  flex: 1;
+}
+
+button,
+.btn {
+  padding: 0.5em 2.5em;
+  text-decoration: none;
+  border: 0 none;
+  background-color: var(--orange-1);
+  color: var(--black);
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration: none;
+    background-color: var(--orange-2);
+    color: var(--black);
+  }
+}
+
+.wrapper {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing);
+}
+
+.y-space {
+  padding: var(--spacing) 0;
+}
+
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+
+  svg {
+    display: block;
+    width: 1em;
+    height: 1em;
+    color: inherit;
+
+    >* {
+      fill: currentColor;
+    }
+  }
+}
