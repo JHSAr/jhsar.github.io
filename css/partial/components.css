@@ -122,6 +122,19 @@ button,
   font-size: 1.4rem;
 }
 
+.btn-dark {
+  /* TODO: move colors to variables */
+  background-color: #361000;
+  color: var(--white);
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: #361000;
+    color: var(--white);
+  }
+}
+
 .icon-button {
   padding: 0.1em;
   width: 1.2em;

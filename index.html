@@ -2,6 +2,219 @@
 layout: default
 ---
 
-<div class="wrapper">
-  <p>Hello, world!</p>
-</div>
+<style>
+  .home-hero {
+    color: #fff;
+    background: #ff5d1a url('/img/home-hero-background.svg') no-repeat 0 98%;
+    padding-top: 50px;
+    padding-bottom: 120px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .home-hero__image {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    translate: 0 -50%;
+
+    img {
+      width: 60vw;
+      max-width: 900px;
+    }
+  }
+
+  .home-hero__content {
+    display: grid;
+    gap: var(--spacing-lg);
+    position: relative;
+  }
+
+  .home-hero__content > * {
+    padding-left: var(--spacing);
+    padding-right: var(--spacing);
+    grid-column: 2 / -2;
+  }
+
+  .home-hero__title {
+    font-size: clamp(3rem, 7vw, 5.6rem);
+    font-weight: 500;
+    line-height: 1;
+    text-transform: uppercase;
+    font-family: 'Langdon', sans-serif;
+  }
+
+  .home-hero__jhs {
+    letter-spacing: 1px;
+  }
+
+  .home-hero__ar {
+    letter-spacing: 3px;
+    color: #ff5d1a;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
+      1px 1px 0 #fff;
+  }
+
+  .home-hero__dash {
+    font-family: 'Arial Black', 'Arial Bold', sans-serif;
+  }
+
+  .home-hero__text {
+    font-size: 1.7em;
+    line-height: 1.2;
+  }
+
+  .home-hero__lead-ribbon,
+  .home-hero__lead-container {
+    grid-row: 3;
+    height: 48px;
+    position: relative;
+  }
+
+  .home-hero__lead-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .home-hero__lead-ribbon {
+    --ribbon-color: rgba(255, 255, 255, 0.15);
+    grid-column: 1 / -2;
+    width: 28em;
+    max-width: 100%;
+    background-color: var(--ribbon-color);
+  }
+
+  .home-hero__lead-ribbon::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 24px 12px;
+    border-color: transparent transparent var(--ribbon-color)
+      var(--ribbon-color);
+  }
+
+  .home-hero__lead {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+  }
+
+  @media (min-width: 1100px) {
+    .home-hero__content {
+      grid-template-columns: 1fr var(--content-width) 1fr;
+    }
+
+    .home-hero__lead-ribbon {
+      width: 55vw;
+    }
+
+    .home-hero__lead {
+      font-size: 1.4em;
+      letter-spacing: 0.16em;
+    }
+  }
+
+  .home-about {
+  }
+
+  .home-about__img {
+  }
+
+  .home-services {
+  }
+
+  .home-services-item {
+  }
+</style>
+
+<section class="home-hero">
+  <div class="home-hero__image">
+    <img
+      src="/img/ar-condicionado-preto.png"
+      alt="Ilustração: ar-condicionado"
+    />
+  </div>
+  <div class="home-hero__content">
+    <div>
+      <h1 class="m-0 home-hero__title">
+        <span class="home-hero__jhs">JHS</span>
+        <span class="home-hero__ar"
+          >Ar<span class="home-hero__dash">-</span>condicionado</span
+        >
+      </h1>
+    </div>
+
+    <div>
+      <p class="m-0 home-hero__text">
+        Especialistas em soluções para climatização.
+        <br />
+        Valorizamos responsabilidade e transparência.
+      </p>
+    </div>
+
+    <div class="home-hero__lead-ribbon"></div>
+
+    <div class="home-hero__lead-container">
+      <p class="m-0 home-hero__lead">Empresas | Comércio | Residências</p>
+    </div>
+
+    <div>
+      <a href="#contato" class="btn btn-lg btn-dark home-hero__cta"
+        >Solicite uma visita técnica</a
+      >
+    </div>
+  </div>
+</section>
+
+<section class="home-about">
+  <div class="wrapper">
+    <h2 class="section-title">About</h2>
+    <p>
+      This is a simple and clean Jekyll theme for small businesses and startups.
+      It includes a big header image, call to action, and a blog.
+    </p>
+  </div>
+  <div class="wrapper horizontal gap-3">
+    <div class="home-about__img"><img src="" alt="" /></div>
+    <div class="home-about__img"><img src="" alt="" /></div>
+    <div class="home-about__img"><img src="" alt="" /></div>
+    <div class="home-about__img"><img src="" alt="" /></div>
+    <div class="home-about__img"><img src="" alt="" /></div>
+  </div>
+</section>
+
+<section class="home-services">
+  <div class="wrapper">
+    <h2>Nossos Serviços</h2>
+  </div>
+  <article class="home-services-item">
+    <h3></h3>
+    <p></p>
+  </article>
+  <article class="home-services-item">
+    <h3></h3>
+    <p></p>
+  </article>
+  <article class="home-services-item">
+    <h3></h3>
+    <p></p>
+  </article>
+  <article class="home-services-item">
+    <h3></h3>
+    <p></p>
+  </article>
+  <article class="home-services-item">
+    <h3></h3>
+    <p></p>
+  </article>
+  <article class="home-services-item">
+    <h3></h3>
+    <p></p>
+  </article>
+</section>
