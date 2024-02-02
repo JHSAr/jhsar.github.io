@@ -121,15 +121,292 @@ layout: default
   }
 
   .home-about {
+    background: url('/img/home-about-background.svg') no-repeat 100%;
   }
 
-  .home-about__img {
+  @media (min-width: 600px) {
+    .home-about__wrapper > * {
+      max-width: 50%;
+    }
+  }
+
+  .home-gallery {
+    margin: auto;
+    padding: var(--spacing);
+    display: flex;
+    gap: var(--spacing-lg);
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .home-gallery__item {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+  }
+
+  .home-gallery__item img {
+    grid-area: 1 / 1 / -1 / -1;
+    animation: float 10s ease-in-out alternate infinite;
+  }
+
+  @keyframes float {
+    to {
+      transform: translateY(5px);
+    }
+  }
+  .home-gallery__item img:nth-of-type(1) {
+    translate: -5px 5px;
+    animation-duration: 2.7s;
+    animation-delay: 0.5s;
+  }
+
+  .home-gallery__item img:nth-of-type(2) {
+    translate: 5px -5px;
+    animation-duration: 3s;
+    animation-delay: 1s;
+  }
+
+  .home-gallery__item:nth-of-type(2) img:nth-of-type(1) {
+    translate: 5px -5px;
+    animation-duration: 2.9s;
+    animation-delay: 0.5s;
+  }
+
+  .home-gallery__item:nth-of-type(2) img:nth-of-type(2) {
+    translate: -5px 5px;
+    animation-duration: 3.2s;
+    animation-delay: 1s;
+  }
+
+  .home-gallery__item:nth-of-type(3) img:nth-of-type(1) {
+    translate: 5px 5px;
+    animation-duration: 3.1s;
+    animation-delay: 0.5s;
+  }
+
+  .home-gallery__item:nth-of-type(3) img:nth-of-type(2) {
+    translate: -5px -5px;
+    animation-duration: 2.5s;
+    animation-delay: 1s;
+  }
+
+  .home-gallery__item:nth-of-type(4) img:nth-of-type(1) {
+    translate: 5px -5px;
+    animation-duration: 3.2s;
+    animation-delay: 0.5s;
+  }
+
+  .home-gallery__item:nth-of-type(4) img:nth-of-type(2) {
+    translate: -5px 5px;
+    animation-duration: 2.3s;
+    animation-delay: 1s;
+  }
+
+  .home-gallery__item:nth-of-type(5) img:nth-of-type(1) {
+    translate: 5px 5px;
+    animation-duration: 2.5s;
+    animation-delay: 0.5s;
+  }
+
+  .home-gallery__item:nth-of-type(5) img:nth-of-type(2) {
+    translate: -5px -5px;
+    animation-duration: 3.1s;
+    animation-delay: 1s;
   }
 
   .home-services {
+    padding-bottom: 180px;
+    background: url('/img/home-services-background.svg') no-repeat left
+      calc(100% - 50px);
   }
 
-  .home-services-item {
+  .home-services__header,
+  .home-services__item {
+    display: grid;
+  }
+
+  .home-services__header > *,
+  .home-services__item > * {
+    padding-left: var(--spacing);
+    padding-right: var(--spacing);
+  }
+
+  .home-services__heading {
+    margin: 0;
+    background-color: hsl(28deg 100% 50% / 18%);
+    line-height: 2;
+  }
+
+  @media (min-width: 600px) {
+    .home-services__header,
+    .home-services__item {
+      grid-template-columns: 1fr min(550px, 100%) 1fr;
+    }
+
+    .home-services__header > *,
+    .home-services__item > * {
+      grid-column: 2 / -2;
+    }
+
+    .home-services__heading-ribbon,
+    .home-services__heading {
+      grid-row: 1;
+      position: relative;
+    }
+
+    .home-services__heading::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 1em 0.5em;
+      z-index: -1;
+    }
+
+    .home-services__heading-ribbon {
+      background-color: hsl(28deg 100% 50% / 18%);
+    }
+
+    .home-services__item:nth-of-type(odd) .home-services__heading-ribbon {
+      grid-column: -2;
+    }
+
+    .home-services__item:nth-of-type(odd) .home-services__heading::before {
+      right: 100%;
+      border-color: hsl(28deg 100% 50% / 18%) hsl(28deg 100% 50% / 18%)
+        transparent transparent;
+    }
+
+    .home-services__item:nth-of-type(even) .home-services__heading-ribbon {
+      grid-column: 1;
+    }
+
+    .home-services__item:nth-of-type(even) .home-services__heading {
+      margin-right: var(--spacing-xl);
+    }
+
+    .home-services__item:nth-of-type(even) .home-services__heading::before {
+      left: 100%;
+      border-color: transparent transparent hsl(28deg 100% 50% / 18%)
+        hsl(28deg 100% 50% / 18%);
+    }
+  }
+
+  @media (min-width: 800px) {
+    .home-services__item {
+      background: var(--bg-img) no-repeat var(--bg-pos);
+    }
+
+    .fix {
+      --bg-img: url('/img/services/fix.svg');
+      --bg-pos: -7%;
+    }
+
+    .prevent {
+      --bg-img: url('/img/services/prevent.svg');
+      --bg-pos: 120%;
+    }
+
+    .preinstall {
+      --bg-img: url('/img/services/preinstall.svg');
+      --bg-pos: -5%;
+    }
+
+    .install {
+      --bg-img: url('/img/services/install.svg');
+      --bg-pos: 105%;
+    }
+
+    .split {
+      --bg-img: url('/img/services/split.svg');
+      --bg-pos: -5%;
+    }
+
+    .vrf {
+      --bg-img: url('/img/services/vrf.svg');
+      --bg-pos: 105%;
+    }
+  }
+
+  @media (min-width: 880px) {
+    .fix {
+      --bg-pos: -2%;
+    }
+
+    .prevent {
+      --bg-pos: 110%;
+    }
+
+    .preinstall {
+      --bg-pos: 3%;
+    }
+
+    .install {
+      --bg-pos: 97%;
+    }
+
+    .split {
+      --bg-pos: 3%;
+    }
+
+    .vrf {
+      --bg-pos: 97%;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .fix {
+      --bg-pos: 5%;
+    }
+
+    .prevent {
+      --bg-pos: 105%;
+    }
+
+    .preinstall {
+      --bg-pos: 5%;
+    }
+
+    .install {
+      --bg-pos: 95%;
+    }
+
+    .split {
+      --bg-pos: 5%;
+    }
+
+    .vrf {
+      --bg-pos: 95%;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .fix {
+      --bg-pos: 10%;
+    }
+
+    .prevent {
+      --bg-pos: 95%;
+    }
+
+    .preinstall {
+      --bg-pos: 10%;
+    }
+
+    .install {
+      --bg-pos: 90%;
+    }
+
+    .split {
+      --bg-pos: 10%;
+    }
+
+    .vrf {
+      --bg-pos: 90%;
+    }
   }
 </style>
 
@@ -172,49 +449,124 @@ layout: default
   </div>
 </section>
 
-<section class="home-about">
-  <div class="wrapper">
-    <h2 class="section-title">About</h2>
+<section class="home-about py-5">
+  <div class="wrapper home-about__wrapper">
+    <h2 class="h3 ttu">Sobre a JHS Ar-condicionado</h2>
     <p>
-      This is a simple and clean Jekyll theme for small businesses and startups.
-      It includes a big header image, call to action, and a blog.
+      Mais de 15 anos de experiência no ramo de venda, instalação e manutenção
+      em aparelhos de ar-condicionado.
     </p>
-  </div>
-  <div class="wrapper horizontal gap-3">
-    <div class="home-about__img"><img src="" alt="" /></div>
-    <div class="home-about__img"><img src="" alt="" /></div>
-    <div class="home-about__img"><img src="" alt="" /></div>
-    <div class="home-about__img"><img src="" alt="" /></div>
-    <div class="home-about__img"><img src="" alt="" /></div>
+    <p>
+      Atendimento rápido e eficiente, valorizando o relacionamento com os
+      clientes com responsabilidade e transparência.
+    </p>
   </div>
 </section>
 
-<section class="home-services">
-  <div class="wrapper">
-    <h2>Nossos Serviços</h2>
+<div class="home-gallery">
+  <div class="home-gallery__item">
+    <img src="/img/about-gallery/path-1.svg" alt="" />
+    <img src="/img/about-gallery/foto-1.png" alt="" />
   </div>
-  <article class="home-services-item">
-    <h3></h3>
-    <p></p>
+  <div class="home-gallery__item">
+    <img src="/img/about-gallery/path-2.svg" alt="" />
+    <img src="/img/about-gallery/foto-2.png" alt="" />
+  </div>
+  <div class="home-gallery__item">
+    <img src="/img/about-gallery/path-3.svg" alt="" />
+    <img src="/img/about-gallery/foto-3.png" alt="" />
+  </div>
+  <div class="home-gallery__item">
+    <img src="/img/about-gallery/path-4.svg" alt="" />
+    <img src="/img/about-gallery/foto-4.png" alt="" />
+  </div>
+  <div class="home-gallery__item">
+    <img src="/img/about-gallery/path-5.svg" alt="" />
+    <img src="/img/about-gallery/foto-5.png" alt="" />
+  </div>
+</div>
+
+<section class="home-services py-5">
+  <header class="home-services__header">
+    <h2 class="h3 ttu">Nossos Serviços</h2>
+  </header>
+
+  <article class="home-services__item fix">
+    <div class="home-services__heading-ribbon"></div>
+    <h3 class="h5 home-services__heading">Manutenção Corretiva</h3>
+
+    <p class="home-services__description">
+      A manutenção corretiva é realizada quando o sistema de ar-condicionado
+      apresenta falhas ou problemas. Nossa equipe altamente treinada identifica
+      e corrige eficientemente qualquer irregularidade, assegurando o pleno
+      funcionamento do equipamento. Contamos com agilidade e qualidade para
+      atender às necessidades dos nossos clientes.
+    </p>
   </article>
-  <article class="home-services-item">
-    <h3></h3>
-    <p></p>
+
+  <article class="home-services__item prevent">
+    <div class="home-services__heading-ribbon"></div>
+    <h3 class="h5 home-services__heading">Manutenção Preventiva</h3>
+
+    <p class="home-services__description">
+      A manutenção preventiva é essencial para prolongar a vida útil e a
+      eficiência do seu sistema de climatização. Nossos técnicos realizam
+      inspeções regulares, limpezas e ajustes preventivos, evitando possíveis
+      falhas antes que se tornem problemas. Mantenha seu ambiente sempre
+      confortável com nossos serviços de manutenção preventiva.
+    </p>
   </article>
-  <article class="home-services-item">
-    <h3></h3>
-    <p></p>
+
+  <article class="home-services__item preinstall">
+    <div class="home-services__heading-ribbon"></div>
+    <h3 class="h5 home-services__heading">Pré Instalação</h3>
+
+    <p class="home-services__description">
+      Antes da instalação efetiva do sistema de ar-condicionado, oferecemos o
+      serviço de pré-instalação. Nossa equipe realiza análises detalhadas do
+      local, verifica a infraestrutura necessária e planeja a instalação de
+      forma eficiente. Garantimos que tudo esteja preparado para uma instalação
+      suave e adequada.
+    </p>
   </article>
-  <article class="home-services-item">
-    <h3></h3>
-    <p></p>
+
+  <article class="home-services__item install">
+    <div class="home-services__heading-ribbon"></div>
+    <h3 class="h5 home-services__heading">Instalação</h3>
+
+    <p class="home-services__description">
+      A instalação de sistemas de ar-condicionado requer precisão e conhecimento
+      técnico. Nossos profissionais garantem uma instalação adequada,
+      respeitando normas e garantindo a eficiência do equipamento. Conte conosco
+      para proporcionar um ambiente climatizado de forma segura e eficaz.
+    </p>
   </article>
-  <article class="home-services-item">
-    <h3></h3>
-    <p></p>
+
+  <article class="home-services__item split">
+    <div class="home-services__heading-ribbon"></div>
+    <h3 class="h5 home-services__heading">Instalação de Splitão</h3>
+
+    <p class="home-services__description">
+      A instalação de Splitão é ideal para ambientes maiores que demandam uma
+      solução de climatização mais robusta. Nossa equipe especializada realiza a
+      instalação desses sistemas com eficiência, proporcionando conforto térmico
+      em espaços amplos. Conte com a JHS Ar-condicionado para projetos de
+      instalação de Splitão.
+    </p>
   </article>
-  <article class="home-services-item">
-    <h3></h3>
-    <p></p>
+
+  <article class="home-services__item vrf">
+    <div class="home-services__heading-ribbon"></div>
+    <h3 class="h5 home-services__heading">
+      Instalação de VRF (Volume de Refrigerante Variável)
+    </h3>
+
+    <p class="home-services__description">
+      A instalação de sistemas VRF é uma solução eficiente para controle
+      individualizado de temperatura em diferentes áreas. Nossos técnicos
+      especializados garantem uma instalação precisa e adequada, proporcionando
+      eficiência energética e conforto personalizado. Confie na JHS
+      Ar-condicionado para projetos de instalação de VRF.
+    </p>
   </article>
 </section>
