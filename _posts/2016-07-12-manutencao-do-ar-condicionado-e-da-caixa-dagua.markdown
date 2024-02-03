@@ -16,11 +16,11 @@ A falta de limpeza nas caixas d’água, tanto quando os aparelhos de ar-condici
 
 O ar-condicionado filtra e resfria o ar em ambientes fechados. Para realizar a limpeza dos aparelhos portáteis é necessário retirar o filtro e a gaveta mensalmente, remover a poeira acumulada com o auxilio de um aspirador de pó e lavá-los com água corrente. A limpeza dos aparelhos que utilizam dutos para saída do ar condicionado, como tem, por exemplo, nos shoppings, deve ser realizada duas vezes ao ano por empresas especializadas, que utilizam produtos específicos para eliminar toda a sujeira existente.
 
-<img src="https://c2.staticflickr.com/8/7345/28231745376_3f813a8734_c.jpg" alt="Limpeza de caixa d’água">
+<div class="horizontal center"><img src="https://c2.staticflickr.com/8/7345/28231745376_3f813a8734_c.jpg" alt="Limpeza de caixa d’água"></div>
 
 No caso das caixas d’água, a limpeza e a manutenção são extremamente importantes para evitar a reprodução de vermes e parasitas responsáveis por diversas doenças como, por exemplo, hepatites (A e E), leptospirose, entre outras. A limpeza e higienização das caixas d’água deve ocorrer, no mínimo, duas vezes ao ano. Para executar a limpeza, siga os passos determinados pela Agência Nacional de Vigilância Sanitária (Anvisa):
 
-<div class="left"><img src="https://c1.staticflickr.com/9/8622/28162096502_5e1abcd2cb.jpg" alt="Instruções de limpeza da caixa d’água" width="150"></div>
+<div style="float:left;margin-right:3em;"><img src="https://c1.staticflickr.com/9/8622/28162096502_5e1abcd2cb.jpg" alt="Instruções de limpeza da caixa d’água" width="150"></div>
 
 1. Feche o registro, retire toda a água da caixa d’água.
 1. Feche a saída de água da caixa d’água.

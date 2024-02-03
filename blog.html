@@ -1,3 +1,25 @@
+---
+title: Blog
+permalink: "/blog/"
+layout: default
+excerpt: Veja dicas para a aquisição e o cuidado com o seu sistema de ar condicionado.
+  Solicite uma visita técnica.
+---
+
+<style>
+  .post-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .post-list__item {
+    margin-bottom: var(--spacing);
+    padding: var(--spacing);
+    background-color: var(--grey-100);
+  }
+</style>
+
 <section class="blog">
   <div class="wrapper">
 
@@ -5,9 +27,9 @@
     
     <ul class="post-list">
       {% for post in site.posts %}
-        <li>
+        <li class="post-list__item">
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2>
+          <h2 class="h4 ttu">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
           <p>{{ post.excerpt }}</p>

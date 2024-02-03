@@ -12,11 +12,11 @@ excerpt: A higienização torna o ambiente climatizado mais saudável, reduz o c
 cover: https://c2.staticflickr.com/8/7643/27322791133_223bbe8c41_o.jpg
 ---
 
-<div class="grid pull">
-  <div class="cell">
-    <p>Ar-condicionado é o nosso principal companheiro nos dias quentes, tanto em casa como na empresa, sendo obrigatório em muitos ambientes. É inegável que o ar-condicionado climatiza, evita malefícios e deixa o ambiente mais agradável, mas também pode ser o principal motivo para algumas doenças. As pessoas sensíveis têm alergia, coceira na pele, sinusite, bronquite, asma e irritação nos olhos.</p>
+<div class="horizontal wrap gap-3">
+  <div class="flex">
+    <p class="m-0">Ar-condicionado é o nosso principal companheiro nos dias quentes, tanto em casa como na empresa, sendo obrigatório em muitos ambientes. É inegável que o ar-condicionado climatiza, evita malefícios e deixa o ambiente mais agradável, mas também pode ser o principal motivo para algumas doenças. As pessoas sensíveis têm alergia, coceira na pele, sinusite, bronquite, asma e irritação nos olhos.</p>
   </div>
-  <div class="cell">
+  <div class="flex">
     <img src="https://c2.staticflickr.com/8/7643/27322791133_223bbe8c41_o.jpg" alt="ar-condicionado e controle remoto">
   </div>
 </div>
@@ -29,13 +29,13 @@ O aparelho capta o ar do próprio ambiente e passa por um filtro, normalmente de
 
 A higienização torna o ambiente climatizado mais saudável, reduz o custo de energia, prolonga a vida útil do equipamento e evita a queima de compressores e motores, que têm alto custo para conserto.
 
-<div class="grid _center">
-  <div class="cell _1of3"><img src="https://c2.staticflickr.com/8/7313/27657308140_cc86a38572_o.jpg" alt="filtro de ar-condicionado lavado com água"></div>
-  <div class="cell _2of3"><p>A limpeza do ar-condicionado é necessária para evitar problemas de saúde. O cuidado básico é fazer a lavagem do filtro de ar, apenas com água, pelo menos uma vez por mês. Também é necessário fazer a limpeza completa duas vezes por ano, com o auxílio de profissionais da área.</p></div>
+<div class="horizontal center wrap gap-3">
+  <div class="flex"><img src="https://c2.staticflickr.com/8/7313/27657308140_cc86a38572_o.jpg" alt="filtro de ar-condicionado lavado com água"></div>
+  <div class="flex"><p>A limpeza do ar-condicionado é necessária para evitar problemas de saúde. O cuidado básico é fazer a lavagem do filtro de ar, apenas com água, pelo menos uma vez por mês. Também é necessário fazer a limpeza completa duas vezes por ano, com o auxílio de profissionais da área.</p></div>
 </div>
 
-<div class="grid inner">
-  <div class="cell _fill">
+<div class="horizontal wrap">
+  <div class="flex">
     <p>Para o modelo Split é necessário limpar:</p>
     <ul>
       <li>filtro</li>
@@ -44,7 +44,7 @@ A higienização torna o ambiente climatizado mais saudável, reduz o custo de e
       <li>ventilador.</li>
     </ul>
   </div>
-  <div class="cell _fill"><img src="https://c2.staticflickr.com/8/7355/27935967095_78abe0a386_o.jpg" alt="Partes do modelo split"></div>
+  <div class="flex"><img src="https://c2.staticflickr.com/8/7355/27935967095_78abe0a386_o.jpg" alt="Partes do modelo split"></div>
 </div>
 
 Veja algumas dicas básicas para melhorar a qualidade do ar em sua casa e, também, em ambientes de trabalho:
