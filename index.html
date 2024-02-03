@@ -408,6 +408,112 @@ layout: default
       --bg-pos: 90%;
     }
   }
+
+  .home-more-info {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .home-more-info__background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .home-more-info__background video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .home-more-info__content {
+    padding-top: var(--spacing-xl);
+    padding-bottom: var(--spacing-xl);
+    position: relative;
+    z-index: 1;
+    color: var(--white);
+    background-color: hsla(29, 100%, 10%, 0.8);
+  }
+
+  .home-more-info__wrapper {
+    padding-left: var(--spacing);
+    padding-right: var(--spacing);
+    max-width: var(--content-width);
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .home-more-info__heading {
+    margin: 0;
+  }
+
+  .home-more-info__network,
+  .home-more-info__warranty {
+    flex: 1 1 21em;
+  }
+
+  .home-more-info__network ul {
+    margin-top: var(--spacing);
+    margin-bottom: var(--spacing);
+    padding-left: 0;
+    list-style: none;
+  }
+
+  .home-more-info__network li,
+  .home-more-info__warranty li {
+    margin: 0;
+  }
+
+  .home-more-info__warranty-header {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing);
+  }
+
+  .home-more-info__warranty-badge svg {
+    display: block;
+  }
+
+  .home-logos {
+    padding: var(--spacing) 5%;
+    display: flex;
+    gap: 5%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @media (max-width: 600px) {
+    .home-logos {
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+  }
+
+  .home-logos__item {
+    width: 180px;
+    height: 100px;
+  }
+
+  .home-logos__item img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .home-map {
+    width: 100%;
+    aspect-ratio: 6 / 2;
+  }
+
+  .home-map iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
 </style>
 
 <section class="home-hero">
@@ -570,3 +676,87 @@ layout: default
     </p>
   </article>
 </section>
+
+<section class="home-more-info">
+  <div class="home-more-info__background">
+    <video
+      src="/video/blurry_video_of_people_working.mp4"
+      autoplay
+      loop
+      muted
+    ></video>
+  </div>
+
+  <div class="home-more-info__content">
+    <div class="home-more-info__wrapper">
+      <article class="home-more-info__network">
+        <h2 class="h3 ttu home-more-info__heading">Principais Clientes</h2>
+        <ul>
+          <li>Girafesta Buffet e Eventos</li>
+          <li>Grupo BT</li>
+          <li>IDS (Instituto de Diagnóstico de Sorocaba)</li>
+          <li>SAF Veículos Sorocaba</li>
+          <li>Sincomércio Sorocaba</li>
+          <li>Soma Veículos de Sorocaba</li>
+        </ul>
+
+        <h2 class="h3 ttu home-more-info__heading">Fornecedores</h2>
+        <p>Fujitsu | Gree Electric | LG | Springer | York</p>
+      </article>
+
+      <article class="home-more-info__warranty">
+        <div class="home-more-info__warranty-header">
+          <h2 class="h3 ttu home-more-info__heading">Garantia</h2>
+          <div class="home-more-info__warranty-badge">
+            {% include svg/badge.svg %}
+          </div>
+        </div>
+
+        <p>
+          Buscamos oferecer o melhor em conserto, manutenção, instalação,
+          limpeza e venda de ar-condicionados, com garantia em todos os
+          serviços.
+        </p>
+
+        <ul>
+          <li>Manutenção corretiva: 3 meses de garantia.</li>
+          <li>Instalação de aparelhos novos: 6 meses de garantia.</li>
+          <li>
+            Exceto manutenção preventiva, que é uma limpeza técnica de prevenção
+            e higienização.
+          </li>
+        </ul>
+      </article>
+    </div>
+  </div>
+</section>
+
+<div class="home-logos">
+  <div class="home-logos__item">
+    <img src="/img/logos/fujitsu.svg" alt="Fujitsu" />
+  </div>
+  <div class="home-logos__item">
+    <img src="/img/logos/gree.svg" alt="Gree" />
+  </div>
+  <div class="home-logos__item">
+    <img src="/img/logos/lg-electronics.svg" alt="LG Electronics" />
+  </div>
+  <div class="home-logos__item">
+    <img src="/img/logos/springer.png" alt="Springer" />
+  </div>
+  <div class="home-logos__item">
+    <img src="/img/logos/york.svg" alt="York" />
+  </div>
+</div>
+
+<div class="home-map">
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14643.774571606495!2d-47.4555775!3d-23.4264029!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c5f58cdb5b7a03%3A0xbecc71682006abfe!2sJHS%20Ar-condicionado!5e0!3m2!1spt-BR!2sbr!4v1706919475124!5m2!1spt-BR!2sbr"
+    width="600"
+    height="450"
+    style="border: 0"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+  ></iframe>
+</div>
