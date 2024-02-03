@@ -22,33 +22,35 @@ Para cada novo modelo de automóvel, uma nova aerodinâmica é criada. Os carros
 
 ## Comparação de consumo entre dois veículos a 100 km/h
 
-<div class="grid _center _nowrap pull">
-    <div class="cell _shrink">
+<div class="horizontal center wrap gap-3 my-3">
+    <div class="flex">
         <img src="https://c1.staticflickr.com/9/8354/29146170571_5831558128_n.jpg" alt="Sedã">
     </div>
-    <div class="cell">
-        <div class="cell _shrink" style="font-weight:bold;line-height:55px;font-size:50px;">Sedã</div>
+    <div class="flex">
+        <div style="font-weight:bold;line-height:55px;font-size:50px;">Sedã</div>
         <strong>baixo Cx</strong>
-        <p><span class="left" style="line-height:55px;font-size:50px;">20%</span> a mais com os vidros abertos</p>
+        <p><span style="float:left;line-height:55px;font-size:50px;margin-right:10px;">20%</span> a mais com os vidros abertos</p>
     </div>
-    <div class="cell _shrink">
+    <div class="flex">
         <img src="https://c1.staticflickr.com/9/8498/28603827713_1547d214b7_n.jpg" alt="SUV">
     </div>
-    <div class="cell">
-        <div class="cell _shrink" style="font-weight:bold;line-height:55px;font-size:50px;">SUV</div>
+    <div class="flex">
+        <div style="font-weight:bold;line-height:55px;font-size:50px;">SUV</div>
         <strong>alto Cx</strong>
-        <p><span class="left" style="line-height:55px;font-size:50px;">8%</span> a mais com os vidros abertos</p>
+        <p><span style="float:left;line-height:55px;font-size:50px;margin-right:10px;">8%</span> a mais com os vidros abertos</p>
     </div>
 </div>
 
 ---
 
-<div class="grid _center inner">
-    <figure class="cell">
+<div class="horizontal center wrap gap-3 my-3">
+    <figure class="flex m-0">
         <img src="https://c1.staticflickr.com/9/8396/28603827673_287cd3a785_o.png" alt="">
         <figcaption>Recomenda-se fechar os vidros acima de 70 km/h feche os vidro para que o desenvolvimento na aerodinâmica não seja prejudicado.</figcaption>
     </figure>
-    <p class="cell">Isso acontece porque, com os vidros abertos, o vento entra pelas laterais, aumentando o atrito aumenta e, consequentemente, o consumo. Ficando com os vidros fechados e o ar ligado, a aerodinâmica garante economia de combustível, enquanto o conforto interno é preservado.</p>
+    <div class="flex">
+        <p class="m-0">Isso acontece porque, com os vidros abertos, o vento entra pelas laterais, aumentando o atrito aumenta e, consequentemente, o consumo. Ficando com os vidros fechados e o ar ligado, a aerodinâmica garante economia de combustível, enquanto o conforto interno é preservado.</p>
+    </div>
 </div>
 
 ---

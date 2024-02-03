@@ -1,66 +1,41 @@
 <footer class="site-footer">
+  <div class="site-footer__wrapper wrapper">
+    <div class="site-footer__info">
+      <p class="site-footer__info-item">
+        <span class="icon">{% include svg/tel.svg %}</span>
+        <span>
+          <a href="tel:+551532139347">(15) 3213-9347</a>
+          /
+          <a href="https://wa.me/5515996705888">(15) 99670-5888</a>
+        </span>
+      </p>
+      <p class="site-footer__info-item">
+        <span class="icon">{% include svg/addr.svg %}</span>
+        <span>
+          Rua Pedro Sola Verdum, 896
+          <br />
+          Jardim J. S. Carvalho - Sorocaba - SP
+        </span>
+      </p>
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="grid">
-      <div class="cell _1of3">
-        <ul class="contact-list">
-          <li><a href="https://www.facebook.com/JHSArCondicionadoSorocaba/" target="_blank">Curta nossa fan page<br>
-            <strong>JHS Ar-condicionado</strong></a></li>
-          <li>{{ site.telefones }}</li>
-          <li>{{ site.endereco }} <br>{{ site.bairro }} {{ site.cidade }}</li>
-        </ul>
-      </div>
-
-      <div class="cell _2of3">
-        <p><strong>Compartilhe:</strong></p>
-        {% include share/widget.html position='site-footer' %}
-        <p>{{ site.description }}</p>
-      </div>
+      <nav class="site-footer__nav">
+        <span class="site-footer__nav-logo">
+          {% include svg/hamburguer-JHS.svg %}
+        </span>
+        <a href="/" aria-label="Página inicial">{% include svg/home.svg %}</a>
+        <a href="/blog/" aria-label="Blog">{% include svg/blog.svg %}</a>
+        <a
+          href="https://www.instagram.com/jhs.ar"
+          target="_blank"
+          aria-label="Instagram"
+        >
+          {% include svg/instagram.svg %}
+        </a>
+      </nav>
     </div>
 
-  </div>
-
-</footer>
-
-<footer class="modal grid _center" id="contato">
-  <div class="wrapper" style="width:90%;">
-    <div class="grid _end"><a class="close" href="#×" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + '× no topo do form de contato');">&times;</a></div>
-    <h4>Fale conosco</h4>
-    <form action="//jhsar.com.br/enviar_email.php" method="post" name="enviar" class="modal-form">
-        <div class="grid _row">
-          <div class="cell">
-            <label for="mce-EMAIL">Email <small class="required">(OBRIGATÓRIO)</small></label>
-            <input type="email" value="" name="email" required id="mce-EMAIL">
-          </div>
-          <div class="cell">
-            <label for="mce-FNAME">Nome <small class="required">(OBRIGATÓRIO)</small></label>
-            <input type="text" value="" name="nome" required id="mce-FNAME">
-          </div>
-        </div>
-        <div class="grid _row">
-          <div class="cell">
-            <label for="mce-TEL">Telefone <small class="required">(OBRIGATÓRIO)</small></label>
-            <input type="tel" value="" name="telefone" required id="mce-TEL">
-            <label for="mce-TYPE">Tipo de solicitação </label>
-            <select name="assunto" id="mce-TYPE">
-            <option value="Apenas contato">Apenas contato</option>
-            <option value="Visita técnica">Visita técnica</option>
-            <option value="Orçamento">Orçamento</option>
-            </select>
-          </div>
-          <div class="cell">
-            <label for="mce-MSG">Mensagem </label>
-            <textarea name="mensagem" id="mce-MSG" cols="30" rows="5"></textarea>
-          </div>
-        </div>
-        <label class="honey"><small>Seres humanos não deveriam ver isso. Deixe este campo em branco.</small><input type="text" name="honeypot"></label>
-        <footer class="grid _row _nowrap _center _justify">
-          <a href="#×" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + 'FECHAR form de contato');">FECHAR</a>
-          <button type="submit" class="btn _big">ENVIAR</button> 
-        </footer>
-      </form>
+    <div class="site-footer__cta">
+      <a href="#contato" class="btn btn-lg my-3">Solicite Uma Visita Técnica</a>
+    </div>
   </div>
 </footer>

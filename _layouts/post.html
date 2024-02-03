@@ -2,69 +2,107 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="wrapper">
+<style>
+  .banner {
+    position: relative;
+    overflow: hidden;
+  }
 
+  .banner__background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .banner__background video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .banner__content {
+    padding-top: var(--spacing-xl);
+    padding-bottom: var(--spacing-xl);
+    position: relative;
+    z-index: 1;
+    color: var(--white);
+    background-color: hsla(29, 100%, 10%, 0.8);
+  }
+</style>
+
+<article class="py-5" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="wrapper">
     <header class="post-header">
       <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-      <p class="post-meta"><a href="https://plus.google.com/116488166437679940153" rel="author">JHS</a>, <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-
     </header>
 
-    {% include share/widget.html position='post-header' %}
-
-    <div class="post-content" itemprop="articleBody">
-      {{ content }}
-    </div>
-
+    <div itemprop="articleBody">{{ content }}</div>
   </div>
 </article>
 
-<aside class="post-content section-cta">
-  <div class="wrapper grid _center _end">
-    <p class="cell _shrink cta-headline">Não espere para ter surpresas com o ar-condicionado!</p>
-    <p class="cell _shrink"><a href="#contato" class="btn _big" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + 'banner no final do post');">SOLICITE UMA VISITA TÉCNICA</a></p>
+<aside class="banner">
+  <div class="banner__background">
+    <video
+      src="/video/blurry_video_of_people_working.mp4"
+      autoplay
+      loop
+      muted
+    ></video>
+  </div>
+
+  <div class="banner__content">
+    <div class="wrapper vertical center">
+      <p class="h3">Não espere para ter surpresas com o ar-condicionado!</p>
+      <p>
+        <a href="#contato" class="btn btn-lg">SOLICITE UMA VISITA TÉCNICA</a>
+      </p>
+    </div>
   </div>
 </aside>
 
-<aside class="post-content section-nav-post">
-  <nav class="wrapper post-navigation grid _row _spacing _justify">
-    <div class="cell _1of2 prev">
-    {% if page.previous.url %}
-      <a href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {% if page.previous.titulo %}{{ page.previous.titulo }}{% else %}{{page.previous.title}}{% endif %}</a>
-    {% endif %}
+<aside class="py-5">
+  <nav class="wrapper horizontal align-center gap-5">
+    <div class="flex">
+      {% if page.previous.url %}
+      <a class="h3" href="{{ page.previous.url | prepend: site.baseurl }}"
+        >{% if page.previous.titulo %}{{ page.previous.titulo }}{% else
+        %}{{page.previous.title}}{% endif %}</a
+      >
+      {% endif %}
     </div>
-    <div class="cell _1of2 next">
-    {% if page.next.url %}
-      <a href="{{ page.next.url | prepend: site.baseurl }}">{% if page.next.titulo %}{{ page.next.titulo }}{% else %}{{page.next.title}}{% endif %} &raquo;</a>
-    {% endif %}
+    <div class="flex">
+      {% if page.next.url %}
+      <a class="h3" href="{{ page.next.url | prepend: site.baseurl }}"
+        >{% if page.next.titulo %}{{ page.next.titulo }}{% else
+        %}{{page.next.title}}{% endif %}</a
+      >
+      {% endif %}
     </div>
   </nav>
 </aside>
 
-<div class="post-content section-share">
-  <div class="wrapper">
-    <div class="grid _center _spacing inner">
-      <div class="cell _1of4"><h5>Gostou? Comente e compartilhe:</h5></div>
-      <div class="cell _shrink">{% include share/widget.html position='post-header' %}</div>
-    </div>
-  </div>
-</div>
-
-
-<div class="post-content">
+<div class="py-5">
   <div class="wrapper post" id="disqus_thread"></div>
   <script>
-  var disqus_config = function () {
-  this.page.url = '{{ site.url }}{{ page.url }}';
-  this.page.identifier = '{{ page.title }}';
-  };
-  (function() {
-    var d = document, s = d.createElement('script');
-    s.src = '//jhsarcondicionado.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
+    var disqus_config = function () {
+      this.page.url = '{{ site.url }}{{ page.url }}';
+      this.page.identifier = '{{ page.title }}';
+    };
+    (function () {
+      var d = document,
+        s = d.createElement('script');
+      s.src = '//jhsarcondicionado.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
   </script>
-  <noscript>Por favor, habilite a execução de JavaScript para ver <a href="https://disqus.com/?ref_noscript" rel="nofollow">comentários via Disqus.</a></noscript>
+  <noscript
+    >Por favor, habilite a execução de JavaScript para ver
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow"
+      >comentários via Disqus.</a
+    ></noscript
+  >
 </div>

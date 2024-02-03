@@ -1,4 +1,0 @@
-{% assign href = site.url | append: site.baseurl | append: page.url %}
-<div class="cell _shrink li-share-button">
-	<a class="{{ include.class }}" href="https://www.linkedin.com/shareArticle?mini=true&url={{ href | cgi_escape }}" onclick="ga('send', 'event', 'Compartilhar', 'Linkedin', location.pathname + ' @ ' + '{{ include.class | append: ' ' | append: include.position }}');" target="_blank" title="Compartilhar no Linkedin">{% include icon/linkedin.svg %}</a>
-</div>

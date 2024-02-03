@@ -20,34 +20,35 @@ Fazer limpeza em aparelhos de ar condicionado, ou mesmo comprar durante o invern
 
 ---
 
-<p class="grid _center inner"><strong>A demanda grande na época de calor</strong></p>
-<div class="grid _center _justify inner">
-    <div class="cell">
+**A demanda grande na época de calor**
+
+<div class="horizontal center wrap gap-3">
+    <div>
         <img src="https://c1.staticflickr.com/9/8486/28691327361_4934155722_o.png" alt="60% mais caro do que no inverno">
     </div>
-    <div class="cell">
+    <div>
         <p><span style="text-align:center;font-weight:bold;display:block;line-height:70px;font-size:70px;">60%</span> mais caro do que no inverno</p>
     </div>
-    <div class="cell">
+    <div>
         <img src="https://c1.staticflickr.com/9/8849/28663205862_23d7098b9e_o.png" alt="fila de espera de até 30 dias">
     </div>
-    <div class="cell">
+    <div>
         <p><span style="text-align:center;font-weight:bold;display:block;line-height:55px;font-size:50px;">15 a 30</span> dias de espera para ser atendido</p>
     </div>
 </div>
 
 ---
 
-<div class="grid _start">
-    <div class="cell">
-        <figure class="grid _column">
+<div class="horizontal wrap gap-3">
+    <div class="flex">
+        <figure class="vertical gap-3">
             <div>
                 <img src="https://c2.staticflickr.com/8/7741/28689692051_e31c5080d1_z.jpg" alt="Aparelhos de ar condicionados expostos em uma loja">
             </div>
             <figcaption>Nos últimos anos, o preço do ar condicionado split variou entre R$ 900 e R$ 1.200 dependendo da época.</figcaption>
         </figure>
     </div>
-    <div class="cell">
+    <div class="flex">
         <h2>Por que fazer a limpeza do ar condicionado?</h2>
         <ul>
             <li>Aumento do rendimento;</li>

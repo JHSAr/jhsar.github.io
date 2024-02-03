@@ -13,7 +13,7 @@ excerpt: Muitas pessoas cometem erros quando tentam economizar na conta de energ
 cover: https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg
 ---
 
-<div class="pull"><img src="https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg" alt="sala com ar-condicionado"></div>
+![sala com ar-condicionado](https://c2.staticflickr.com/8/7132/27488748871_e44921e916_h.jpg)
 
 Usado em épocas de calor ou mesmo no frio (com a função de aquecimento), o ar-condicionado pode ser encontrado com diversas capacidades e tecnologias, sendo um dos aparelhos mais utilizados nas residências e empresas. [Seu uso traz benefícios para a produtividade e a saúde]({% post_url 2016-06-09-beneficios-do-ar-condicionado-para-produtividade-e-saude %}). Toda essa importância vem com o desafio de evitar o consumo desnecessário de energia elétrica e aproveitar ao máximo os [benefícios que o ar-condicionado proporciona ao seu dia a dia]({% post_url 2016-05-09-principais-aplicacoes-de-um-sistema-de-ar-condicionado %}), sem que isso vá de encontro ao orçamento mensal.
 
@@ -27,9 +27,9 @@ Veja as dicas a seguir:
 
 Ao escolher o aparelho de ar-condicionado, muitas pessoas optam por aqueles que têm um valor menor no mercado, não levando em conta a demanda do ambiente em que ele será instalado.
 
-<div class="grid _center">
-    <div class="cell"><img src="https://c2.staticflickr.com/8/7741/28689692051_e31c5080d1_z.jpg" alt="Loja de aparelhos de ar condicionado"></div>
-    <div class="cell">
+<div class="horizontal center wrap gap-3">
+    <div style="flex: 1 1 150px;"><img src="https://c2.staticflickr.com/8/7741/28689692051_e31c5080d1_z.jpg" alt="Loja de aparelhos de ar condicionado"></div>
+    <div style="flex: 1 1 450px;">
         <p>Comprar um aparelho de menor preço, mas abaixo da capacidade ideal para o lugar onde ele será usado irá comprometer a sua eficiência e o aparelho será obrigado a utilizar toda a sua potência, causando maior consumo de energia.</p>
     </div>
 </div>
@@ -57,12 +57,12 @@ Não é aconselhável você ligar o ar-condicionado em um ambiente pouco ventila
 
 ## Não fique desligando e ligando o ar frequentemente
 
-<div class="grid _center">
-    <div class="cell">
+<div class="horizontal center wrap gap-3">
+    <div style="flex: 1 1 45%;">
         <p>Cada vez que o ar-condicionado é ligado, ele consome mais energia. Se você desligar o aparelho quando achar conveniente, ele será forçado a gastar mais energia quando for ligada novamente.</p>
         <p>Por isso, em vez desligar e religar o aparelho, diminua a força do ar e a temperatura. Uma boa sugestão é deixar o aparelho no modo automático.</p>
     </div>
-    <div class="cell"><img src="https://c2.staticflickr.com/8/7643/27322791133_223bbe8c41_o.jpg" alt="desligando o ar-condicionado"></div>
+    <div style="flex: 1 1 40%;"><img src="https://c2.staticflickr.com/8/7643/27322791133_223bbe8c41_o.jpg" alt="desligando o ar-condicionado"></div>
 </div>
 
 ## Deixe a direção do vento na horizontal
@@ -71,11 +71,11 @@ Como o ar frio é mais pesado, ele se movimenta para baixo. Se a direção do ve
 
 ## Saiba como utilizar o modo de desumidificação
 
-<div class="grid _center">
-    <div class="cell">
+<div class="horizontal center wrap gap-3">
+    <div class="flex">
         <p>A diferença básica entre o modo de resfriamento e desumidificação é que o resfriamento prioriza a diminuição da temperatura, e a desumidificação diminui a umidade sem baixar a temperatura.</p>
     </div>
-    <div class="cell"><img src="https://c2.staticflickr.com/6/5485/30407909145_8644b957a3_o.jpg" alt="Modos do ar-condicionado"></div>
+    <div class="flex"><img src="https://c2.staticflickr.com/6/5485/30407909145_8644b957a3_o.jpg" alt="Modos do ar-condicionado"></div>
 </div>
 
 ### Utilizando os modos corretamente
@@ -86,11 +86,11 @@ Como o ar frio é mais pesado, ele se movimenta para baixo. Se a direção do ve
 
 ## Limpe os filtros regularmente
 
-<div class="grid _center">
-    <div class="cell">
+<div class="horizontal center wrap gap-3">
+    <div class="flex">
         <img src="https://c2.staticflickr.com/8/7313/27657308140_cc86a38572_o.jpg" alt="limpeza do filtro">
     </div>
-    <div class="cell">
+    <div class="flex">
         <p>É importante <a href="{% post_url 2016-06-27-mantenha-o-ar-condicionado-limpo-e-evite-problemas-de-saude %}">limpar os filtros pelo menos 1 vez a cada 2 semanas</a>. Quanto mais tempo o ar-condicionado ficar ligado, mais poeira pode entrar no aparelho e sujar os filtros, impedindo o ar-condicionado de funcionar em sua máxima eficiência.</p>
     </div>
 </div>

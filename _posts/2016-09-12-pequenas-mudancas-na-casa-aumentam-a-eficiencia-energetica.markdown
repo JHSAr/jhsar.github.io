@@ -16,24 +16,15 @@ cover: https://c1.staticflickr.com/9/8670/27820716304_613c17963b_b.jpg
 
 Muito mais do que equilibrar o orçamento doméstico, a redução do consumo energético é uma questão de desenvolvimento sustentável para todo o País. A [tarifa de energia elétrica]({% post_url 2016-12-27-economize-na-conta-da-energia-eletrica-nas-ferias %}) está cada vez mais alta. O aquecimento global preocupa o mundo. Mas a solução não está em um futuro distante.
 
-<figure class="grid pull">
-  <div class="cell">
-    <img src="http://acritica.tagview.com.br/uploads/news/image/719838/show_Capturar3.JPG" alt="Centro de Desenvolvimento Tecnológico e Inovação da Universidade Do Estado do Amazonas">
-  </div>
-  <figcaption>
-    <p>Recentemente, um prédio da Universidade Do Estado do Amazonas (UEA) ganhou um selo de eficiência energética e desenvolveu conhecimentos que podem ser implementados em quaisquer outras edificações. Fonte: <a href="http://www.acritica.com/channels/cotidiano/news/domingo-mudancas-simples-deixam-casas-com-melhor-eficiencia-energetica">Portal A Crítica</a></p>
-  </figcaption>
-</figure>
-
 Algumas coisas básicas de economia de energia podem ser observadas muito facilmente. Iluminação, por exemplo, é uma coisa que as pessoas não se preocupam, mas quando ela está associada com o [uso de ar-condicionado]({% post_url 2016-10-17-dicas-de-utilizacao-e-economia-de-energia %}) aumenta muito o consumo de energia.
 
 Lâmpadas LED que, embora mais caras, duram muito mais, e ar-condicionados com tecnologia inverter, que consome 40% menos energia, são uma boa solução.
 
 É importante que a fiação elétrica seja adequada ao tipo de consumo. Se um chuveiro elétrico, por exemplo, é ligado em um cabo fino, isso aumenta o consumo de energia. Equipamentos com maior potência têm que ter cabo e disjuntor adequado.
 
-<figure class="grid _center inner">
-  <div class="cell _1of2"><img src="http://mundoeducacao.bol.uol.com.br/upload/conteudo_legenda/fdc38df72dd22f929a21d3ff99282a85.jpg" alt="selo de eficiência energética"></div>
-  <figcaption class="cell _1of2">
+<figure class="horizontal center wrap gap-3">
+  <div class="flex"><img src="http://mundoeducacao.bol.uol.com.br/upload/conteudo_legenda/fdc38df72dd22f929a21d3ff99282a85.jpg" alt="selo de eficiência energética"></div>
+  <figcaption class="flex">
     <p>O selo de eficiência energética dos produtos deve ser um fator importante na escolha dos aparelhos da casa. Veja as <a href="http://www.inmetro.gov.br/consumidor/tabelas.asp">tabelas de eficiência energética do INMETRO</a>.</p>
   </figcaption>
 </figure>
@@ -50,22 +41,22 @@ O chuveiro elétrico também pode ser um vilão. A recomendação é utilizá-lo
 
 ### Os vilões da eficiência energética, segundo dados da Eletrobras:
 
-<div class="grid">
-  <div class="cell _1of4">
+<div class="horizontal wrap">
+  <div class="flex p-1 color-white bg-orange-2">
     <p style="display:block;text-align:center;">REFRIGERADORES DE AR</p>
-    <div style="display:block;text-align:center;font-weight:bold;line-height:55px;font-size:50px;">até 40%</div>
+    <p style="display:block;text-align:center;font-weight:bold;line-height:55px;font-size:50px;">até 40%</p>
   </div>
-  <div class="cell _1of4">
+  <div class="flex p-1 color-white bg-orange-1">
     <p style="display:block;text-align:center;">GELADEIRA</p>
-    <div style="display:block;text-align:center;font-weight:bold;line-height:55px;font-size:50px;">30%</div>
+    <p style="display:block;text-align:center;font-weight:bold;line-height:55px;font-size:50px;">30%</p>
   </div>
-  <div class="cell _1of4">
+  <div class="flex p-1 color-white bg-red-2">
     <p style="display:block;text-align:center;">ILUMINAÇÃO RESIDENCIAL</p>
-    <div style="display:block;text-align:center;font-weight:bold;line-height:55px;font-size:50px;">até 25%</div>
+    <p style="display:block;text-align:center;font-weight:bold;line-height:55px;font-size:50px;">até 25%</p>
   </div>
-  <div class="cell _1of4">
+  <div class="flex p-1 color-white bg-red-1">
     <p style="display:block;text-align:center;font-size:.8em;">FERRO DE PASSAR ROUPA, BOMBA D’ÁGUA, COMPUTADOR E CHUVEIRO ELÉTRICO</p>
-    <div style="display:block;text-align:center;font-weight:bold;line-height:40px;font-size:35px;">de 25%<br>a 35%</div>
+    <p style="display:block;text-align:center;font-weight:bold;line-height:40px;font-size:35px;">de 25%<br>a 35%</p>
   </div>
 </div>
 

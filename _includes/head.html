@@ -1,23 +1,35 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.isPaginated %}
+  <title>Blog #{{ paginator.page }} - {{ site.title | strip_html }}</title>
+  <meta
+    name="description"
+    content="Página {{ paginator.page }} do índice do blog - {{ site.description }}"
+  />
+  {% seo title=false description=false %} {% else %}{% seo %}{% endif %}
 
-  <meta property="fb:app_id" content="331004737231548" />
-  <meta property="og:url" content="{{ site.url | append: page.url }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta property="og:image" content="{% if page.cover %}{{ page.cover | escape }}{% else %}{{ site.cover | escape }}{% endif %}" />
+  <link
+    rel="stylesheet"
+    href="{{ site.baseurl }}/fonts/langdon/stylesheet.css"
+  />
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link
+    href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700"
+    rel="stylesheet"
+    type="text/css"
+  />
 
-  <link href='https://fonts.googleapis.com/css?family=Josefin+Sans|Oxygen:400,700,300' rel='stylesheet' type='text/css'>
-  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
-  <link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
+  <link
+    rel="stylesheet"
+    href="{{ site.baseurl }}/css/main.css?v={{ site.time | date: '%s' }}"
+  />
+  <link
+    rel="canonical"
+    href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+  />
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" />
+  <link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png" />
 </head>
