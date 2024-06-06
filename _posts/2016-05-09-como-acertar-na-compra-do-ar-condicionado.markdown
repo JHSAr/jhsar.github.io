@@ -11,11 +11,11 @@ excerpt: A compra de um condicionador de ar não depende do calor ou frio que a 
   local.
 ---
 
-<div class="grid _center">
-    <div class="cell _3of4">
+<div class="horizontal center wrap gap-3">
+    <div class="flex">
         <p>Para acertar na compra do seu aparelho de ar condicionado, siga as dicas abaixo:</p>
     </div>
-    <div class="cell _1of4"><img src="https://c2.staticflickr.com/8/7741/28689692051_e31c5080d1_z.jpg" alt="Loja de ar-condicionados"></div>
+    <div class="flex"><img src="https://c2.staticflickr.com/8/7741/28689692051_e31c5080d1_z.jpg" alt="Loja de ar-condicionados"></div>
 </div>
 
 __Capacidade:__
@@ -26,7 +26,7 @@ __Capacidade:__
 
 __Garantia de fábrica:__ a Instalação deve ser feita por uma empresa credenciada pela fábrica.
 
-<p><a href="#contato" onclick="ga('send', 'event', 'Navegar', 'Contato', location.pathname + ' @ ' + 'dentro do post');">Solicite o nosso serviço agora mesmo!</a></p>
+<p><a href="#contato" class="btn btn-lg">Solicite o nosso serviço agora mesmo!</a></p>
 
 __Eficiência:__ quanto maior a eficiência, menor o consumo de energia.
 

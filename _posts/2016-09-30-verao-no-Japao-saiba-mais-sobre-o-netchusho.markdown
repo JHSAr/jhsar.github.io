@@ -18,9 +18,9 @@ No Japão, o verão ocorre de junho a setembro, época em que ouve-se muito fala
 Variações no ambiente, condição física e atividades realizadas causam um desequilíbrio no organismo. A alta temperatura, umidade, raios solares, falta de ventilação e ar-condicionado em lugares fechados, impedem que o controle do calor interno libere isso através da transpiração. Idosos, crianças, obesos, pessoas com problemas psiquiátricos e de nutrição são os mais afetados.
 
 ## Como prevenir?
-<div class="grid inner">
-    <div class="cell _1of3"><img src="https://c2.staticflickr.com/6/5248/29909599742_faa6895e62_o.jpg" alt="bebida de melancia"></div>
-    <div class="cell _2of3">
+<div class="horizontal wrap gap-3">
+    <div><img src="https://c2.staticflickr.com/6/5248/29909599742_faa6895e62_o.jpg" alt="bebida de melancia"></div>
+    <div class="flex">
         <ul>
             <li>use roupas mais leves;</li>
             <li>aproveite a sombra das árvores;</li>
@@ -34,8 +34,8 @@ Variações no ambiente, condição física e atividades realizadas causam um de
 
 ## Como proceder ao apresentar os sintomas?
 
-<div class="grid pull">
-    <div class="cell _1of2">
+<div class="horizontal wrap gap-3">
+    <div class="flex">
         <ul>
             <li>procure abrigo em local arejado e com ar- condicionado;</li>
             <li>abra alguns botões da camisa próximo ao pescoço e retire a gravata ou paletó;</li>
@@ -45,7 +45,7 @@ Variações no ambiente, condição física e atividades realizadas causam um de
             <li>evite a ingestão de líquidos se a pessoa estiver com vômito, pois poderá entrar nas vias respiratórias.</li>
         </ul>
     </div>
-    <div class="cell _1of2">
+    <div class="flex">
         <img src="https://c1.staticflickr.com/9/8716/29939795701_1cd05089bf_z.jpg" alt="bebidas">
     </div>
 </div>

@@ -1,0 +1,195 @@
+<style>
+  .dialog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(0);
+
+    z-index: -1000;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.2s ease-in-out;
+  }
+
+  .dialog.open {
+    z-index: 1000;
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .dialog__content {
+    background-color: var(--white);
+    width: 100%;
+    max-width: var(--content-width);
+    margin: 0 auto;
+    padding: var(--spacing);
+    max-height: 100%;
+    overflow-y: auto;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+
+    translate: 0 -100%;
+    opacity: 0;
+    transition: 0.3s ease-in-out;
+  }
+
+  .dialog__content.small {
+    max-width: calc(var(--content-width) * 0.75);
+  }
+
+  .dialog.open .dialog__content {
+    translate: 0 0;
+    opacity: 1;
+  }
+</style>
+
+<div class="dialog" role="dialog" aria-modal="true" id="contato">
+  <div class="dialog__content small">
+    <form
+      action="//jhsar.com.br/enviar_email.php"
+      method="post"
+      name="enviar"
+      class="vertical gap-2"
+    >
+      <header class="horizontal gap-2">
+        <h4 class="m-0">Fale conosco</h4>
+        <button type="button" class="close icon icon-button h2">
+          {% include svg/close.svg %}
+        </button>
+      </header>
+
+      <div class="horizontal wrap gap-2">
+        <div class="flex">
+          <label for="mce-FNAME" class="required">Nome</label>
+          <input type="text" value="" name="nome" required id="mce-FNAME" />
+        </div>
+
+        <div class="flex">
+          <label for="mce-TEL" class="required">Telefone</label>
+          <input type="tel" value="" name="telefone" required id="mce-TEL" />
+        </div>
+      </div>
+
+      <div class="flex horizontal wrap gap-2">
+        <div class="flex">
+          <label for="mce-EMAIL" class="required">Email</label>
+          <input type="email" value="" name="email" required id="mce-EMAIL" />
+        </div>
+
+        <div class="flex">
+          <label for="mce-TYPE">Tipo de solicitação </label>
+          <select name="assunto" id="mce-TYPE">
+            <option value="Primeiro contato">Primeiro contato</option>
+            <option value="Orçamento">Orçamento</option>
+            <option value="Visita técnica">Visita técnica</option>
+            <option value="Outro">Outro</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="flex">
+        <label for="mce-MSG">Mensagem </label>
+        <textarea name="mensagem" id="mce-MSG" cols="30" rows="5"></textarea>
+      </div>
+
+      <label hidden>
+        <small>
+          Seres humanos não deveriam ver isso. Deixe este campo em branco.
+        </small>
+        <input type="text" name="honeypot" />
+      </label>
+
+      <footer class="horizontal">
+        <button type="button" class="close btn-secondary">FECHAR</button>
+        <button type="submit">ENVIAR</button>
+      </footer>
+    </form>
+  </div>
+</div>
+
+<script>
+  {
+    const dialogs = Array.from(document.querySelectorAll('.dialog'));
+
+    for (const dialog of dialogs) {
+      const openButtons = Array.from(
+        document.querySelectorAll(`[href="#${dialog.id}"]`)
+      );
+      const closeButtons = Array.from(
+        dialog.querySelectorAll('.close, [href="#×"]')
+      );
+
+      const focusableElements = Array.from(
+        dialog.querySelectorAll(
+          'a[href], button, textarea, input[type="text"], input[type="radio"], input[type="checkbox"], select'
+        )
+      );
+      const firstFocusableElement = focusableElements[0];
+      const lastFocusableElement =
+        focusableElements[focusableElements.length - 1];
+
+      dialog.open = function openDialog() {
+        dialog.classList.add('open');
+        dialog.setAttribute('aria-hidden', false);
+        dialog.setAttribute('tabindex', 0);
+        firstFocusableElement.focus();
+        document.body.style.overflow = 'hidden';
+      };
+      dialog.close = function closeDialog() {
+        dialog.classList.remove('open');
+        dialog.setAttribute('aria-hidden', true);
+        dialog.setAttribute('tabindex', -1);
+        document.body.style.overflow = null;
+      };
+
+      if (dialog.classList.contains('open')) {
+        dialog.open();
+      } else {
+        dialog.close();
+      }
+
+      for (const openButton of openButtons) {
+        openButton.addEventListener('click', (e) => {
+          e.preventDefault();
+          dialog.open();
+        });
+      }
+
+      for (const closeButton of closeButtons) {
+        closeButton.addEventListener('click', (e) => {
+          e.preventDefault();
+          dialog.close();
+        });
+      }
+
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          dialog.close();
+        }
+      });
+
+      dialog.addEventListener('keydown', (e) => {
+        if (e.key === 'Tab') {
+          if (!e.shiftKey && document.activeElement === lastFocusableElement) {
+            e.preventDefault();
+            firstFocusableElement.focus();
+          } else if (
+            e.shiftKey &&
+            document.activeElement === firstFocusableElement
+          ) {
+            e.preventDefault();
+            lastFocusableElement.focus();
+          }
+        }
+      });
+    }
+  }
+</script>
