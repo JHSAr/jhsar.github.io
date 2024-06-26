@@ -36,5 +36,10 @@ exclude:
 - desktop.ini
 - gulpfile.js
 - README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- package.json
+- package-lock.json
 sass:
   style: compressed
