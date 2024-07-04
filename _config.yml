@@ -32,6 +32,7 @@ baseurl:
 url: http://jhsar.com.br
 cover: https://c2.staticflickr.com/8/7512/27284014190_3ef3fc1e7e_b.jpg
 markdown: kramdown
+livereload: true
 exclude:
 - desktop.ini
 - gulpfile.js
